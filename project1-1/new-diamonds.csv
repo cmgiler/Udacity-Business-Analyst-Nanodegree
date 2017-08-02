@@ -1,0 +1,3001 @@
+,carat,cut,cut_ord,color,clarity,clarity_ord
+1,1.22,Premium,4,G,SI1,3
+2,1.01,Good,2,G,VS2,5
+3,0.71,Very Good,3,I,VS2,5
+4,1.01,Ideal,5,D,SI2,2
+5,0.27,Ideal,5,H,VVS2,6
+6,0.52,Premium,4,G,VS1,4
+7,1.01,Premium,4,F,SI1,3
+8,0.59,Ideal,5,D,SI1,3
+9,1.01,Good,2,E,SI1,3
+10,2.03,Ideal,5,F,SI2,2
+11,1.35,Premium,4,H,VS2,5
+12,0.74,Ideal,5,G,SI1,3
+13,0.9,Premium,4,D,SI1,3
+14,0.3,Good,2,G,VS2,5
+15,1.01,Good,2,F,VS2,5
+16,1.02,Good,2,H,SI2,2
+17,2.05,Premium,4,G,SI1,3
+18,0.54,Ideal,5,I,SI1,3
+19,0.72,Ideal,5,G,VS2,5
+20,2,Premium,4,J,SI2,2
+21,1.57,Premium,4,G,SI2,2
+22,0.89,Premium,4,G,SI1,3
+23,0.33,Premium,4,I,VVS2,6
+24,0.3,Very Good,3,G,IF,8
+25,1.79,Very Good,3,I,VS2,5
+26,1.11,Ideal,5,E,SI2,2
+27,0.79,Premium,4,F,SI1,3
+28,0.71,Very Good,3,F,SI1,3
+29,0.73,Ideal,5,G,SI1,3
+30,0.9,Very Good,3,G,VS2,5
+31,1.31,Good,2,I,VS1,4
+32,1.01,Ideal,5,F,SI2,2
+33,0.35,Premium,4,D,SI1,3
+34,0.41,Premium,4,G,VS2,5
+35,0.32,Premium,4,E,VS2,5
+36,0.38,Ideal,5,D,VS1,4
+37,1.21,Premium,4,I,SI2,2
+38,1,Premium,4,F,SI1,3
+39,0.56,Ideal,5,H,VS2,5
+40,1,Good,2,J,SI1,3
+41,0.32,Premium,4,H,VVS1,7
+42,1.7,Ideal,5,D,SI1,3
+43,2.26,Very Good,3,D,SI2,2
+44,0.32,Premium,4,D,VS2,5
+45,0.4,Very Good,3,F,VVS1,7
+46,2.13,Very Good,3,G,SI2,2
+47,0.7,Premium,4,G,VS2,5
+48,2.01,Premium,4,H,SI1,3
+49,1.15,Premium,4,G,SI1,3
+50,0.71,Ideal,5,E,VS1,4
+51,1.35,Premium,4,G,VVS2,6
+52,0.51,Ideal,5,F,SI1,3
+53,0.34,Ideal,5,D,IF,8
+54,1.58,Ideal,5,G,VS1,4
+55,2.05,Good,2,G,SI2,2
+56,0.41,Ideal,5,H,VS1,4
+57,0.6,Fair,1,F,SI1,3
+58,0.31,Ideal,5,H,IF,8
+59,0.64,Very Good,3,D,SI1,3
+60,0.71,Premium,4,J,SI1,3
+61,0.55,Ideal,5,F,VS2,5
+62,1.26,Very Good,3,G,VVS2,6
+63,1.03,Premium,4,G,VS1,4
+64,1.01,Premium,4,H,SI2,2
+65,0.25,Very Good,3,E,VVS2,6
+66,0.9,Premium,4,H,SI1,3
+67,0.45,Premium,4,D,VS1,4
+68,0.3,Ideal,5,F,IF,8
+69,0.9,Good,2,D,SI2,2
+70,0.8,Very Good,3,F,VS2,5
+71,0.33,Premium,4,G,VS1,4
+72,0.71,Ideal,5,G,SI1,3
+73,0.7,Premium,4,D,SI1,3
+74,0.78,Ideal,5,H,SI2,2
+75,0.7,Very Good,3,F,SI2,2
+76,0.38,Ideal,5,F,VVS2,6
+77,0.54,Premium,4,J,VS2,5
+78,0.25,Good,2,E,VVS2,6
+79,2.5,Good,2,J,VS2,5
+80,0.72,Good,2,D,VS1,4
+81,0.41,Ideal,5,E,VS2,5
+82,2.03,Ideal,5,G,SI2,2
+83,1.24,Premium,4,D,SI1,3
+84,0.92,Premium,4,G,SI2,2
+85,1,Fair,1,E,SI2,2
+86,0.57,Ideal,5,F,VS1,4
+87,0.54,Ideal,5,D,SI1,3
+88,1.08,Premium,4,H,SI2,2
+89,0.54,Very Good,3,H,VVS1,7
+90,0.63,Very Good,3,F,VS2,5
+91,1.58,Premium,4,D,SI1,3
+92,0.3,Very Good,3,D,VS2,5
+93,1.56,Ideal,5,G,VVS2,6
+94,0.26,Very Good,3,F,VVS2,6
+95,0.57,Ideal,5,E,VS2,5
+96,0.39,Ideal,5,F,IF,8
+97,1.13,Very Good,3,G,SI2,2
+98,1.09,Ideal,5,H,SI1,3
+99,1.52,Ideal,5,E,SI2,2
+100,1.01,Very Good,3,E,VS1,4
+101,1.21,Premium,4,H,SI2,2
+102,0.5,Ideal,5,H,SI1,3
+103,1.33,Premium,4,E,SI2,2
+104,0.52,Very Good,3,D,VS2,5
+105,0.33,Ideal,5,H,SI2,2
+106,1.06,Premium,4,G,SI2,2
+107,0.9,Premium,4,F,SI2,2
+108,0.92,Ideal,5,H,VS1,4
+109,1.54,Premium,4,D,VS2,5
+110,1,Premium,4,E,SI2,2
+111,1.2,Ideal,5,G,VS1,4
+112,1,Ideal,5,E,SI1,3
+113,0.33,Very Good,3,E,SI1,3
+114,0.38,Ideal,5,E,IF,8
+115,0.55,Ideal,5,H,VVS2,6
+116,0.31,Premium,4,J,VS2,5
+117,1.13,Ideal,5,D,VS1,4
+118,0.33,Premium,4,D,SI1,3
+119,1.03,Premium,4,E,VS2,5
+120,0.53,Very Good,3,F,SI1,3
+121,1,Good,2,F,I1,1
+122,0.8,Very Good,3,F,VS1,4
+123,1.25,Good,2,I,SI2,2
+124,0.5,Very Good,3,E,SI1,3
+125,0.56,Ideal,5,D,VS2,5
+126,0.46,Ideal,5,J,VS2,5
+127,2.1,Premium,4,H,SI2,2
+128,0.77,Ideal,5,D,SI1,3
+129,0.53,Premium,4,H,VS2,5
+130,0.75,Very Good,3,F,VS1,4
+131,0.41,Premium,4,F,VVS2,6
+132,0.41,Ideal,5,G,VVS1,7
+133,0.51,Ideal,5,D,VS2,5
+134,0.34,Premium,4,G,VS2,5
+135,0.51,Ideal,5,E,SI2,2
+136,0.3,Premium,4,H,SI1,3
+137,1.5,Good,2,G,SI2,2
+138,1.01,Very Good,3,F,SI2,2
+139,1.1,Ideal,5,G,VS1,4
+140,0.5,Good,2,D,SI1,3
+141,1,Good,2,E,VVS2,6
+142,1.22,Ideal,5,J,VS1,4
+143,1.51,Ideal,5,H,SI2,2
+144,0.31,Ideal,5,E,VVS1,7
+145,0.95,Premium,4,E,SI2,2
+146,1.06,Very Good,3,I,SI2,2
+147,1.39,Premium,4,E,VS2,5
+148,1.01,Very Good,3,H,VS2,5
+149,0.72,Premium,4,D,SI1,3
+150,0.51,Premium,4,D,VS1,4
+151,1.5,Very Good,3,D,SI2,2
+152,0.7,Premium,4,G,VVS1,7
+153,1.01,Premium,4,H,SI2,2
+154,0.3,Ideal,5,I,SI1,3
+155,1.29,Premium,4,F,SI1,3
+156,1.01,Very Good,3,F,VS2,5
+157,0.33,Ideal,5,I,VS2,5
+158,1.53,Premium,4,H,SI2,2
+159,0.85,Premium,4,D,SI2,2
+160,0.33,Ideal,5,G,VS2,5
+161,0.6,Ideal,5,D,VVS1,7
+162,0.63,Premium,4,I,VS1,4
+163,1.04,Premium,4,G,SI2,2
+164,2.01,Very Good,3,H,SI2,2
+165,0.71,Premium,4,E,SI1,3
+166,0.3,Very Good,3,G,VVS2,6
+167,1.74,Ideal,5,J,VS1,4
+168,1.06,Ideal,5,E,SI1,3
+169,0.7,Fair,1,G,SI1,3
+170,1.52,Very Good,3,G,VS2,5
+171,0.41,Ideal,5,F,VS2,5
+172,1.22,Ideal,5,G,VS1,4
+173,0.37,Premium,4,E,SI1,3
+174,0.3,Premium,4,H,SI1,3
+175,0.54,Premium,4,E,SI1,3
+176,0.37,Ideal,5,E,VS2,5
+177,1.5,Premium,4,E,VVS2,6
+178,0.62,Very Good,3,G,VS2,5
+179,1.33,Premium,4,H,SI2,2
+180,1.51,Very Good,3,J,SI2,2
+181,0.31,Ideal,5,H,VVS1,7
+182,0.38,Ideal,5,G,SI2,2
+183,0.31,Ideal,5,I,VS1,4
+184,0.34,Premium,4,G,VVS2,6
+185,0.75,Good,2,E,SI2,2
+186,0.28,Very Good,3,F,VVS2,6
+187,1.23,Very Good,3,G,SI2,2
+188,0.75,Good,2,E,SI1,3
+189,1.11,Ideal,5,H,VVS2,6
+190,2.07,Very Good,3,I,SI1,3
+191,1,Premium,4,D,SI1,3
+192,0.79,Ideal,5,F,SI1,3
+193,0.31,Ideal,5,G,VS1,4
+194,0.31,Premium,4,I,VVS1,7
+195,1,Ideal,5,H,SI1,3
+196,0.41,Premium,4,G,VS1,4
+197,0.51,Premium,4,E,SI1,3
+198,1.91,Very Good,3,F,SI1,3
+199,1.19,Very Good,3,E,VS2,5
+200,0.32,Premium,4,F,VVS1,7
+201,0.55,Ideal,5,F,SI2,2
+202,0.32,Ideal,5,F,IF,8
+203,1.09,Ideal,5,G,SI2,2
+204,0.9,Very Good,3,I,VVS1,7
+205,0.74,Ideal,5,E,VS2,5
+206,0.9,Very Good,3,G,VS2,5
+207,0.76,Ideal,5,D,VS1,4
+208,0.73,Ideal,5,D,SI2,2
+209,0.52,Good,2,G,SI1,3
+210,0.73,Premium,4,E,SI1,3
+211,0.76,Premium,4,I,VS2,5
+212,0.48,Good,2,F,VS1,4
+213,1.5,Fair,1,D,SI1,3
+214,0.37,Very Good,3,F,SI1,3
+215,0.43,Premium,4,E,VS2,5
+216,0.58,Ideal,5,E,VVS2,6
+217,1.01,Ideal,5,D,SI1,3
+218,0.28,Ideal,5,H,VS1,4
+219,0.53,Very Good,3,G,VS1,4
+220,0.9,Very Good,3,I,VS2,5
+221,0.3,Ideal,5,F,VVS1,7
+222,1.51,Premium,4,D,SI2,2
+223,1.01,Premium,4,G,SI2,2
+224,0.31,Ideal,5,F,VS2,5
+225,0.66,Ideal,5,D,VS2,5
+226,0.56,Premium,4,D,SI1,3
+227,0.28,Very Good,3,E,VVS2,6
+228,0.55,Ideal,5,F,SI2,2
+229,0.29,Ideal,5,G,IF,8
+230,0.36,Ideal,5,E,VS1,4
+231,0.31,Ideal,5,D,SI1,3
+232,0.58,Very Good,3,G,VVS2,6
+233,0.4,Premium,4,D,SI2,2
+234,0.29,Ideal,5,I,VS1,4
+235,0.62,Very Good,3,E,VS1,4
+236,0.73,Ideal,5,E,SI2,2
+237,2.01,Very Good,3,J,SI2,2
+238,0.7,Very Good,3,G,I1,1
+239,0.54,Good,2,D,SI2,2
+240,0.3,Fair,1,D,VVS2,6
+241,0.38,Ideal,5,H,VVS1,7
+242,0.7,Premium,4,G,VS1,4
+243,0.82,Ideal,5,E,SI2,2
+244,0.41,Ideal,5,E,VVS2,6
+245,0.64,Ideal,5,G,IF,8
+246,1.01,Very Good,3,H,VS1,4
+247,0.58,Very Good,3,I,VS2,5
+248,0.34,Ideal,5,D,VS1,4
+249,0.85,Ideal,5,E,VS1,4
+250,0.91,Good,2,G,SI2,2
+251,0.91,Premium,4,G,SI2,2
+252,0.5,Fair,1,E,VS2,5
+253,1,Premium,4,F,VS2,5
+254,1.5,Very Good,3,G,SI1,3
+255,1.26,Ideal,5,H,VS1,4
+256,0.35,Premium,4,D,SI2,2
+257,1.09,Premium,4,I,VS2,5
+258,0.3,Ideal,5,F,VS2,5
+259,0.27,Ideal,5,E,VS1,4
+260,0.32,Ideal,5,E,VVS2,6
+261,1.09,Premium,4,I,VS1,4
+262,0.4,Premium,4,F,SI1,3
+263,1.04,Ideal,5,E,VVS2,6
+264,0.51,Premium,4,E,VS2,5
+265,0.73,Ideal,5,H,SI1,3
+266,1.01,Good,2,H,SI2,2
+267,1.34,Ideal,5,G,VS2,5
+268,0.52,Ideal,5,G,VVS2,6
+269,1.21,Good,2,H,VS1,4
+270,0.35,Ideal,5,F,VS1,4
+271,0.7,Ideal,5,G,VVS2,6
+272,0.7,Premium,4,G,SI1,3
+273,0.42,Very Good,3,G,SI1,3
+274,0.38,Premium,4,D,SI2,2
+275,0.3,Ideal,5,G,VS1,4
+276,0.91,Premium,4,F,SI2,2
+277,1.11,Premium,4,G,SI1,3
+278,0.3,Good,2,G,IF,8
+279,0.32,Ideal,5,F,VVS1,7
+280,0.42,Ideal,5,F,VS2,5
+281,0.54,Ideal,5,G,VVS2,6
+282,2.03,Very Good,3,I,VS2,5
+283,0.4,Good,2,F,VS2,5
+284,0.57,Premium,4,H,VS1,4
+285,0.72,Ideal,5,J,VVS1,7
+286,1.3,Premium,4,I,SI1,3
+287,1.01,Premium,4,E,VS2,5
+288,0.39,Ideal,5,G,SI2,2
+289,0.43,Ideal,5,F,VVS2,6
+290,0.77,Premium,4,I,SI1,3
+291,0.53,Ideal,5,F,VVS1,7
+292,0.65,Very Good,3,I,IF,8
+293,0.33,Premium,4,D,SI2,2
+294,1.02,Premium,4,F,SI2,2
+295,0.31,Premium,4,G,VVS1,7
+296,0.36,Ideal,5,F,SI1,3
+297,0.3,Very Good,3,H,VVS1,7
+298,0.9,Very Good,3,H,SI2,2
+299,1.05,Ideal,5,G,SI1,3
+300,1.5,Good,2,D,SI2,2
+301,0.9,Very Good,3,H,VS1,4
+302,0.72,Very Good,3,E,SI1,3
+303,0.42,Premium,4,G,VS2,5
+304,0.53,Premium,4,I,VVS1,7
+305,0.51,Very Good,3,F,SI1,3
+306,0.51,Ideal,5,H,VS2,5
+307,0.86,Premium,4,F,SI2,2
+308,1.51,Premium,4,H,SI1,3
+309,0.37,Ideal,5,F,VS1,4
+310,0.56,Premium,4,D,SI1,3
+311,1.59,Premium,4,I,VS2,5
+312,0.73,Ideal,5,H,SI1,3
+313,0.31,Ideal,5,F,IF,8
+314,0.4,Very Good,3,F,SI1,3
+315,0.52,Ideal,5,F,VS2,5
+316,1.04,Premium,4,H,SI1,3
+317,1,Ideal,5,J,VS1,4
+318,0.78,Ideal,5,F,SI1,3
+319,0.76,Ideal,5,J,SI1,3
+320,0.71,Premium,4,E,VS2,5
+321,0.9,Ideal,5,G,SI2,2
+322,1.01,Very Good,3,E,SI2,2
+323,0.81,Very Good,3,G,SI2,2
+324,0.36,Ideal,5,F,VVS2,6
+325,0.61,Ideal,5,I,SI2,2
+326,0.51,Ideal,5,E,VS2,5
+327,0.24,Ideal,5,E,VVS2,6
+328,0.52,Ideal,5,H,IF,8
+329,1,Premium,4,H,SI2,2
+330,0.31,Ideal,5,H,VVS2,6
+331,1.08,Premium,4,H,VS1,4
+332,0.7,Good,2,D,VS2,5
+333,0.3,Very Good,3,F,VVS1,7
+334,0.3,Ideal,5,H,SI1,3
+335,0.7,Very Good,3,G,VS2,5
+336,0.72,Ideal,5,E,SI2,2
+337,0.3,Ideal,5,H,VVS1,7
+338,0.76,Premium,4,F,SI1,3
+339,0.41,Very Good,3,D,SI1,3
+340,0.41,Premium,4,E,SI1,3
+341,0.4,Very Good,3,D,SI2,2
+342,1.54,Good,2,E,SI1,3
+343,0.55,Ideal,5,E,VVS2,6
+344,0.57,Ideal,5,H,SI1,3
+345,0.53,Ideal,5,E,VS2,5
+346,0.33,Very Good,3,E,VS2,5
+347,1.53,Premium,4,D,SI2,2
+348,0.52,Ideal,5,H,SI1,3
+349,1.01,Very Good,3,F,VVS1,7
+350,0.91,Very Good,3,D,SI1,3
+351,0.54,Premium,4,F,VS2,5
+352,0.53,Premium,4,H,SI1,3
+353,1.02,Premium,4,G,VS2,5
+354,0.3,Premium,4,H,VS1,4
+355,2.05,Ideal,5,H,SI2,2
+356,0.3,Premium,4,D,VS2,5
+357,0.3,Premium,4,H,VS1,4
+358,0.9,Very Good,3,J,VS1,4
+359,2.25,Ideal,5,I,SI2,2
+360,0.42,Ideal,5,G,VVS1,7
+361,0.7,Good,2,F,SI2,2
+362,1.2,Very Good,3,I,SI1,3
+363,1.52,Premium,4,G,SI1,3
+364,0.33,Ideal,5,G,VVS1,7
+365,1.21,Premium,4,J,VVS2,6
+366,0.23,Very Good,3,E,VVS2,6
+367,0.31,Ideal,5,H,VVS2,6
+368,0.5,Ideal,5,F,SI1,3
+369,1.01,Very Good,3,H,SI1,3
+370,0.76,Ideal,5,H,VS2,5
+371,0.31,Premium,4,E,VVS2,6
+372,1.77,Ideal,5,D,SI2,2
+373,0.4,Very Good,3,G,SI1,3
+374,0.51,Very Good,3,G,VS2,5
+375,0.54,Ideal,5,F,VVS1,7
+376,0.3,Ideal,5,F,SI1,3
+377,1.06,Ideal,5,I,SI2,2
+378,0.81,Ideal,5,F,VS1,4
+379,0.58,Ideal,5,D,SI1,3
+380,0.53,Good,2,H,SI1,3
+381,0.3,Very Good,3,E,SI1,3
+382,1.09,Premium,4,F,SI1,3
+383,1.17,Ideal,5,I,SI2,2
+384,1.53,Ideal,5,I,VS2,5
+385,1.03,Good,2,E,SI2,2
+386,0.35,Premium,4,I,SI1,3
+387,1,Very Good,3,D,VS2,5
+388,2.01,Premium,4,G,SI2,2
+389,0.32,Premium,4,G,VS1,4
+390,1.01,Ideal,5,F,SI2,2
+391,0.4,Very Good,3,D,VS2,5
+392,1.12,Premium,4,D,SI2,2
+393,1.24,Very Good,3,H,VVS2,6
+394,0.52,Ideal,5,E,VS2,5
+395,0.82,Very Good,3,F,VVS2,6
+396,1.05,Good,2,G,SI2,2
+397,1,Very Good,3,F,VS2,5
+398,0.81,Very Good,3,J,SI1,3
+399,1.02,Very Good,3,E,VS1,4
+400,0.75,Fair,1,J,VS1,4
+401,0.4,Very Good,3,D,SI2,2
+402,2.04,Premium,4,F,SI2,2
+403,0.52,Ideal,5,E,VS2,5
+404,0.8,Very Good,3,F,VS2,5
+405,1.01,Very Good,3,F,VS1,4
+406,0.43,Premium,4,E,SI1,3
+407,1.13,Premium,4,G,VVS1,7
+408,0.4,Ideal,5,F,IF,8
+409,1.05,Premium,4,G,VS1,4
+410,0.41,Good,2,E,VS2,5
+411,1.01,Ideal,5,G,VS2,5
+412,0.7,Fair,1,G,SI1,3
+413,0.55,Ideal,5,G,VVS1,7
+414,0.53,Ideal,5,E,VS2,5
+415,1.16,Ideal,5,F,VS2,5
+416,0.3,Ideal,5,F,VS1,4
+417,0.7,Ideal,5,F,VS2,5
+418,0.33,Very Good,3,F,VVS2,6
+419,0.71,Premium,4,E,VS2,5
+420,0.71,Premium,4,E,VS1,4
+421,0.33,Ideal,5,G,IF,8
+422,1.58,Ideal,5,I,SI1,3
+423,1.63,Premium,4,I,VS1,4
+424,0.38,Ideal,5,E,IF,8
+425,1.29,Premium,4,I,VS1,4
+426,1.1,Very Good,3,I,SI2,2
+427,1.73,Premium,4,F,SI2,2
+428,1.01,Fair,1,F,SI1,3
+429,0.41,Very Good,3,E,SI2,2
+430,0.9,Premium,4,I,VS2,5
+431,0.3,Ideal,5,I,VS1,4
+432,0.27,Ideal,5,E,VS1,4
+433,0.28,Very Good,3,H,SI1,3
+434,1.17,Ideal,5,H,VS2,5
+435,1.02,Premium,4,E,SI1,3
+436,0.34,Ideal,5,E,VVS1,7
+437,0.45,Good,2,F,VS1,4
+438,0.75,Ideal,5,G,SI2,2
+439,0.31,Ideal,5,F,VVS2,6
+440,0.38,Ideal,5,D,VVS2,6
+441,0.39,Premium,4,G,VS2,5
+442,0.54,Ideal,5,G,SI1,3
+443,0.7,Premium,4,D,SI1,3
+444,0.31,Ideal,5,E,IF,8
+445,1.21,Ideal,5,F,VS2,5
+446,0.33,Premium,4,G,VS1,4
+447,1.11,Very Good,3,J,VS1,4
+448,0.31,Ideal,5,F,VS2,5
+449,0.32,Very Good,3,F,VS2,5
+450,0.28,Very Good,3,E,VVS2,6
+451,2.17,Very Good,3,H,SI2,2
+452,0.35,Good,2,H,VS2,5
+453,0.57,Ideal,5,F,VVS1,7
+454,1.02,Ideal,5,I,SI1,3
+455,0.77,Ideal,5,J,VS2,5
+456,0.55,Ideal,5,F,SI2,2
+457,0.91,Premium,4,G,SI1,3
+458,1.01,Very Good,3,G,VS2,5
+459,0.33,Ideal,5,G,VVS2,6
+460,0.9,Good,2,H,VS2,5
+461,0.31,Premium,4,G,VS2,5
+462,0.3,Ideal,5,D,VS1,4
+463,0.39,Ideal,5,H,SI2,2
+464,0.63,Very Good,3,G,VS1,4
+465,0.71,Ideal,5,F,SI1,3
+466,1.02,Ideal,5,G,VS2,5
+467,0.56,Very Good,3,J,VS2,5
+468,0.53,Ideal,5,E,VS1,4
+469,0.92,Good,2,D,SI2,2
+470,0.3,Ideal,5,G,VS1,4
+471,0.52,Very Good,3,F,VVS2,6
+472,0.36,Ideal,5,E,VS1,4
+473,2.02,Ideal,5,F,SI2,2
+474,0.54,Ideal,5,D,VS2,5
+475,0.76,Very Good,3,J,VS1,4
+476,1.21,Very Good,3,F,VS2,5
+477,0.3,Premium,4,F,VS2,5
+478,0.9,Very Good,3,E,SI1,3
+479,0.36,Ideal,5,D,SI2,2
+480,0.71,Ideal,5,I,SI1,3
+481,1.09,Ideal,5,E,VS2,5
+482,0.31,Ideal,5,D,VVS2,6
+483,0.3,Very Good,3,G,VS1,4
+484,0.4,Ideal,5,I,VS2,5
+485,0.3,Ideal,5,E,VVS2,6
+486,1.7,Premium,4,F,VS2,5
+487,0.43,Very Good,3,E,SI1,3
+488,0.53,Ideal,5,F,VVS2,6
+489,0.41,Ideal,5,G,VS1,4
+490,0.72,Premium,4,E,SI1,3
+491,1,Good,2,G,VS2,5
+492,0.37,Ideal,5,F,VVS2,6
+493,0.5,Very Good,3,G,SI1,3
+494,0.31,Ideal,5,G,VVS1,7
+495,1.01,Very Good,3,F,VS2,5
+496,0.33,Ideal,5,E,VS2,5
+497,0.35,Good,2,I,SI1,3
+498,0.3,Ideal,5,E,VVS2,6
+499,0.37,Premium,4,J,VS2,5
+500,1.21,Ideal,5,G,VS2,5
+501,1.05,Ideal,5,E,VVS2,6
+502,1.11,Premium,4,D,VS2,5
+503,0.57,Ideal,5,D,VS2,5
+504,1.01,Very Good,3,E,SI2,2
+505,0.51,Ideal,5,I,VS2,5
+506,0.52,Ideal,5,G,VS1,4
+507,0.58,Ideal,5,G,SI1,3
+508,0.26,Very Good,3,E,VVS1,7
+509,0.85,Fair,1,H,I1,1
+510,0.43,Ideal,5,G,VVS1,7
+511,0.25,Ideal,5,G,VVS1,7
+512,0.78,Ideal,5,H,SI1,3
+513,1,Ideal,5,D,SI1,3
+514,0.31,Good,2,D,SI2,2
+515,0.44,Premium,4,G,VS2,5
+516,0.5,Premium,4,G,VVS2,6
+517,1.82,Very Good,3,G,SI1,3
+518,0.4,Very Good,3,D,VVS2,6
+519,0.33,Premium,4,H,VS2,5
+520,0.71,Premium,4,G,SI1,3
+521,2.03,Very Good,3,I,VS2,5
+522,0.25,Ideal,5,H,VS1,4
+523,1.1,Premium,4,F,VS2,5
+524,0.91,Very Good,3,G,VS1,4
+525,0.54,Ideal,5,D,VS1,4
+526,0.9,Good,2,D,SI1,3
+527,1.09,Good,2,H,SI1,3
+528,1.57,Ideal,5,H,I1,1
+529,0.71,Ideal,5,F,VS1,4
+530,0.72,Good,2,G,VS2,5
+531,1.12,Ideal,5,H,SI1,3
+532,0.31,Ideal,5,H,IF,8
+533,0.7,Ideal,5,F,SI1,3
+534,0.53,Ideal,5,H,VS1,4
+535,0.3,Ideal,5,H,IF,8
+536,0.73,Premium,4,G,VVS2,6
+537,0.4,Premium,4,E,VS1,4
+538,1.09,Premium,4,H,SI1,3
+539,1.21,Premium,4,I,VS2,5
+540,0.32,Ideal,5,D,VVS2,6
+541,0.31,Ideal,5,G,VVS1,7
+542,0.43,Premium,4,I,IF,8
+543,0.3,Ideal,5,E,VS2,5
+544,1,Ideal,5,H,I1,1
+545,0.3,Ideal,5,E,SI2,2
+546,0.61,Very Good,3,G,VS2,5
+547,0.33,Very Good,3,E,SI1,3
+548,0.62,Premium,4,F,VS2,5
+549,1.1,Premium,4,G,VS2,5
+550,0.32,Ideal,5,F,VS1,4
+551,1.08,Very Good,3,F,SI1,3
+552,0.41,Ideal,5,G,SI2,2
+553,1,Ideal,5,G,SI1,3
+554,1,Ideal,5,E,SI1,3
+555,0.37,Ideal,5,G,IF,8
+556,0.35,Premium,4,E,SI2,2
+557,1.2,Good,2,H,SI1,3
+558,0.5,Premium,4,E,SI1,3
+559,0.43,Ideal,5,G,VVS2,6
+560,0.42,Very Good,3,G,VS2,5
+561,0.59,Ideal,5,E,SI1,3
+562,1.4,Ideal,5,H,SI2,2
+563,0.66,Good,2,F,VS2,5
+564,1.02,Ideal,5,I,VS2,5
+565,0.53,Ideal,5,H,VS2,5
+566,0.51,Good,2,F,SI1,3
+567,0.42,Very Good,3,D,SI2,2
+568,2.03,Ideal,5,H,SI2,2
+569,0.41,Premium,4,H,VS1,4
+570,0.41,Ideal,5,F,VS1,4
+571,0.3,Very Good,3,H,VS2,5
+572,1.11,Ideal,5,F,VS2,5
+573,0.31,Very Good,3,J,VS2,5
+574,0.7,Good,2,F,SI1,3
+575,0.4,Premium,4,E,SI1,3
+576,0.33,Ideal,5,G,SI2,2
+577,0.9,Very Good,3,F,SI2,2
+578,0.31,Ideal,5,F,VS2,5
+579,1.15,Ideal,5,D,VS2,5
+580,1.01,Ideal,5,D,VVS2,6
+581,0.42,Ideal,5,G,VS1,4
+582,0.91,Ideal,5,J,VS1,4
+583,1.26,Premium,4,I,SI1,3
+584,1.28,Ideal,5,G,VS1,4
+585,1.17,Ideal,5,G,VVS2,6
+586,1.02,Premium,4,G,SI2,2
+587,0.57,Ideal,5,E,VS2,5
+588,0.91,Very Good,3,I,VS2,5
+589,1,Ideal,5,I,VS2,5
+590,0.7,Good,2,D,VS1,4
+591,1.14,Very Good,3,D,VS2,5
+592,0.9,Very Good,3,F,SI2,2
+593,0.3,Ideal,5,G,IF,8
+594,0.27,Ideal,5,E,VS1,4
+595,0.34,Ideal,5,I,IF,8
+596,0.33,Ideal,5,G,IF,8
+597,2,Ideal,5,G,SI2,2
+598,0.7,Premium,4,G,VS2,5
+599,0.37,Good,2,F,VS2,5
+600,0.73,Ideal,5,D,VS2,5
+601,0.38,Ideal,5,E,SI1,3
+602,1,Premium,4,I,VS1,4
+603,0.39,Premium,4,G,IF,8
+604,0.51,Premium,4,E,VS2,5
+605,0.7,Very Good,3,F,SI1,3
+606,1.11,Good,2,H,SI2,2
+607,0.34,Ideal,5,E,VVS1,7
+608,1.25,Ideal,5,J,SI1,3
+609,0.52,Ideal,5,J,SI1,3
+610,1,Very Good,3,H,SI2,2
+611,0.33,Ideal,5,F,VVS1,7
+612,1.8,Ideal,5,D,SI2,2
+613,0.3,Good,2,H,VS1,4
+614,0.7,Very Good,3,E,VS1,4
+615,1.08,Ideal,5,G,VS2,5
+616,0.61,Good,2,G,I1,1
+617,1.1,Premium,4,G,VS2,5
+618,0.41,Premium,4,F,VS2,5
+619,0.33,Very Good,3,G,VS2,5
+620,0.5,Premium,4,J,SI1,3
+621,0.38,Premium,4,D,VS1,4
+622,2.01,Ideal,5,H,SI2,2
+623,0.42,Ideal,5,D,SI1,3
+624,1.52,Ideal,5,G,SI1,3
+625,0.53,Ideal,5,E,VS1,4
+626,0.7,Very Good,3,E,IF,8
+627,0.72,Ideal,5,G,VS2,5
+628,0.9,Very Good,3,E,SI1,3
+629,1.22,Ideal,5,I,SI1,3
+630,0.25,Very Good,3,F,VVS1,7
+631,2.03,Ideal,5,I,VS2,5
+632,1.02,Ideal,5,G,SI2,2
+633,0.74,Ideal,5,J,VS1,4
+634,1.24,Premium,4,H,SI1,3
+635,1.15,Premium,4,G,SI2,2
+636,2.01,Premium,4,I,SI2,2
+637,0.71,Premium,4,F,IF,8
+638,0.56,Ideal,5,D,SI2,2
+639,1.01,Ideal,5,H,SI1,3
+640,0.31,Ideal,5,F,IF,8
+641,1.19,Ideal,5,D,SI2,2
+642,0.5,Ideal,5,D,VS2,5
+643,1.02,Premium,4,G,SI1,3
+644,0.38,Premium,4,E,SI1,3
+645,0.41,Ideal,5,F,VVS2,6
+646,1.52,Ideal,5,D,SI2,2
+647,1.22,Ideal,5,G,VS2,5
+648,0.53,Ideal,5,D,VS2,5
+649,0.4,Very Good,3,D,SI1,3
+650,0.33,Premium,4,D,SI1,3
+651,0.31,Ideal,5,H,VS1,4
+652,1.14,Premium,4,D,SI1,3
+653,1.32,Premium,4,I,SI2,2
+654,0.23,Very Good,3,F,VVS1,7
+655,0.41,Very Good,3,G,VVS2,6
+656,2.24,Ideal,5,I,SI2,2
+657,0.55,Ideal,5,D,VS2,5
+658,2.32,Fair,1,H,SI1,3
+659,1.25,Ideal,5,J,VS2,5
+660,0.31,Ideal,5,F,SI1,3
+661,2.01,Fair,1,H,VS2,5
+662,0.55,Ideal,5,E,SI1,3
+663,0.7,Very Good,3,E,VVS2,6
+664,1.51,Good,2,D,VS1,4
+665,0.31,Ideal,5,F,VVS1,7
+666,0.95,Ideal,5,H,SI1,3
+667,0.24,Ideal,5,G,VS1,4
+668,0.4,Premium,4,D,SI2,2
+669,1.25,Premium,4,H,SI2,2
+670,0.24,Very Good,3,E,VVS1,7
+671,0.83,Ideal,5,F,SI1,3
+672,1.01,Very Good,3,G,VS2,5
+673,0.27,Very Good,3,F,VVS1,7
+674,1.1,Ideal,5,F,VS1,4
+675,0.3,Premium,4,G,VVS2,6
+676,0.52,Ideal,5,E,SI1,3
+677,0.4,Ideal,5,G,IF,8
+678,1.3,Premium,4,H,SI1,3
+679,1.71,Ideal,5,G,VS1,4
+680,0.52,Ideal,5,D,VS2,5
+681,0.33,Ideal,5,H,VVS1,7
+682,1,Very Good,3,E,VVS2,6
+683,0.5,Premium,4,F,VS1,4
+684,0.91,Very Good,3,F,SI1,3
+685,1.21,Ideal,5,G,VS1,4
+686,0.51,Ideal,5,D,VS2,5
+687,0.41,Premium,4,G,VVS2,6
+688,0.94,Very Good,3,F,SI2,2
+689,0.31,Premium,4,G,SI1,3
+690,0.4,Ideal,5,D,VS2,5
+691,1.12,Ideal,5,G,SI1,3
+692,1,Good,2,E,SI1,3
+693,1.48,Premium,4,H,SI2,2
+694,0.32,Ideal,5,G,SI1,3
+695,0.76,Good,2,G,IF,8
+696,0.42,Ideal,5,D,SI1,3
+697,0.5,Good,2,E,SI1,3
+698,0.83,Very Good,3,J,VS2,5
+699,0.32,Very Good,3,G,VS1,4
+700,0.7,Ideal,5,H,VS1,4
+701,0.73,Ideal,5,D,VS1,4
+702,0.71,Very Good,3,D,VS1,4
+703,0.35,Premium,4,F,SI1,3
+704,0.42,Premium,4,H,SI1,3
+705,0.81,Ideal,5,E,VS2,5
+706,0.32,Ideal,5,E,VS2,5
+707,0.85,Premium,4,I,I1,1
+708,0.71,Good,2,F,SI1,3
+709,0.32,Very Good,3,H,VVS2,6
+710,1.09,Premium,4,H,SI1,3
+711,0.35,Premium,4,D,VS2,5
+712,0.82,Premium,4,G,SI2,2
+713,1.03,Premium,4,H,SI1,3
+714,0.5,Fair,1,H,VS1,4
+715,0.8,Ideal,5,H,VS2,5
+716,1.12,Premium,4,J,SI2,2
+717,1.62,Premium,4,G,VS2,5
+718,1.22,Ideal,5,H,SI1,3
+719,0.52,Ideal,5,F,VVS1,7
+720,1.11,Good,2,I,VS2,5
+721,0.31,Very Good,3,F,SI1,3
+722,0.42,Ideal,5,D,VS1,4
+723,0.32,Ideal,5,H,VS2,5
+724,0.9,Very Good,3,F,SI1,3
+725,1.04,Ideal,5,H,SI1,3
+726,0.35,Ideal,5,D,VS2,5
+727,0.5,Fair,1,E,VS2,5
+728,0.36,Very Good,3,D,SI1,3
+729,0.3,Premium,4,D,SI2,2
+730,0.7,Very Good,3,E,SI1,3
+731,0.41,Very Good,3,G,VS1,4
+732,0.4,Premium,4,D,VS2,5
+733,1.1,Premium,4,E,SI2,2
+734,0.74,Very Good,3,E,SI2,2
+735,0.51,Ideal,5,F,VS2,5
+736,0.27,Very Good,3,F,VVS1,7
+737,1.01,Ideal,5,G,VS2,5
+738,1.37,Very Good,3,I,SI2,2
+739,1.01,Premium,4,H,SI1,3
+740,0.39,Fair,1,E,SI1,3
+741,0.51,Premium,4,E,SI1,3
+742,0.5,Premium,4,G,VVS2,6
+743,1.55,Ideal,5,G,SI2,2
+744,0.3,Ideal,5,F,IF,8
+745,2,Premium,4,D,SI2,2
+746,0.35,Premium,4,J,VS1,4
+747,0.33,Ideal,5,D,VS2,5
+748,1,Very Good,3,G,VS2,5
+749,0.93,Good,2,G,SI2,2
+750,0.25,Premium,4,E,VVS2,6
+751,0.7,Good,2,E,SI1,3
+752,1.01,Ideal,5,F,VS2,5
+753,0.53,Premium,4,E,VVS2,6
+754,1.51,Premium,4,G,VS2,5
+755,0.23,Very Good,3,F,VS1,4
+756,0.38,Premium,4,F,VS2,5
+757,0.3,Good,2,G,VVS2,6
+758,0.3,Ideal,5,G,VS1,4
+759,1.01,Good,2,I,SI1,3
+760,0.8,Premium,4,E,SI1,3
+761,0.7,Ideal,5,E,VS1,4
+762,0.7,Good,2,G,VS1,4
+763,1.26,Ideal,5,I,SI2,2
+764,1.09,Ideal,5,G,VVS2,6
+765,1,Very Good,3,I,SI2,2
+766,0.6,Ideal,5,E,VS1,4
+767,0.32,Premium,4,H,SI1,3
+768,0.41,Ideal,5,D,VVS2,6
+769,0.32,Premium,4,F,VS2,5
+770,0.4,Very Good,3,E,VS1,4
+771,3,Very Good,3,H,I1,1
+772,0.56,Premium,4,E,VS2,5
+773,0.9,Good,2,D,SI2,2
+774,0.36,Ideal,5,H,VVS1,7
+775,0.31,Very Good,3,E,VS2,5
+776,1.19,Very Good,3,H,SI1,3
+777,0.56,Ideal,5,G,VVS1,7
+778,0.7,Premium,4,F,VS2,5
+779,0.71,Premium,4,I,VVS1,7
+780,0.52,Very Good,3,G,VVS1,7
+781,0.33,Premium,4,D,SI2,2
+782,0.34,Ideal,5,F,VS2,5
+783,1.19,Very Good,3,D,VVS1,7
+784,0.4,Premium,4,D,VS1,4
+785,1.07,Very Good,3,G,VS2,5
+786,1.61,Ideal,5,G,VS2,5
+787,1,Premium,4,E,VS1,4
+788,1.07,Ideal,5,G,SI1,3
+789,0.41,Ideal,5,F,VS2,5
+790,2.03,Premium,4,D,SI2,2
+791,0.58,Ideal,5,J,VS1,4
+792,0.8,Very Good,3,F,SI1,3
+793,0.32,Ideal,5,H,VS2,5
+794,0.7,Ideal,5,D,SI1,3
+795,0.79,Premium,4,H,SI1,3
+796,0.93,Very Good,3,I,VS2,5
+797,0.37,Very Good,3,F,VS2,5
+798,0.41,Premium,4,E,VS2,5
+799,0.31,Ideal,5,D,SI2,2
+800,0.7,Ideal,5,E,VS2,5
+801,0.53,Ideal,5,D,VS2,5
+802,0.3,Very Good,3,H,VS2,5
+803,0.95,Very Good,3,E,SI2,2
+804,0.41,Premium,4,F,VVS2,6
+805,1.34,Premium,4,G,SI2,2
+806,1,Very Good,3,D,SI1,3
+807,0.42,Premium,4,D,VS1,4
+808,0.41,Premium,4,E,VS1,4
+809,0.5,Ideal,5,G,VVS1,7
+810,0.46,Premium,4,I,SI2,2
+811,0.35,Ideal,5,G,IF,8
+812,0.82,Ideal,5,D,VS2,5
+813,2.48,Very Good,3,F,SI2,2
+814,0.35,Premium,4,J,VS1,4
+815,1.52,Premium,4,D,SI2,2
+816,1.07,Ideal,5,F,VVS2,6
+817,0.61,Ideal,5,E,SI2,2
+818,0.39,Very Good,3,G,VVS2,6
+819,0.71,Premium,4,G,SI2,2
+820,0.51,Fair,1,F,SI1,3
+821,1.67,Ideal,5,D,SI1,3
+822,1,Premium,4,G,I1,1
+823,0.3,Good,2,F,VS2,5
+824,1.22,Very Good,3,H,SI1,3
+825,0.72,Ideal,5,F,VS2,5
+826,0.94,Premium,4,E,SI1,3
+827,0.51,Ideal,5,D,SI2,2
+828,1.01,Very Good,3,J,SI1,3
+829,0.41,Premium,4,F,SI2,2
+830,0.3,Very Good,3,E,SI1,3
+831,1.11,Premium,4,I,SI2,2
+832,0.5,Ideal,5,E,SI1,3
+833,1.2,Good,2,J,VS2,5
+834,0.56,Ideal,5,H,SI1,3
+835,0.9,Premium,4,D,SI1,3
+836,1,Fair,1,I,VS1,4
+837,0.35,Ideal,5,I,VS1,4
+838,0.31,Ideal,5,D,VS2,5
+839,0.71,Very Good,3,E,VS2,5
+840,0.3,Premium,4,G,VVS2,6
+841,0.3,Ideal,5,E,VS1,4
+842,1,Very Good,3,E,IF,8
+843,0.3,Premium,4,G,VVS2,6
+844,1.48,Ideal,5,E,SI2,2
+845,1.5,Ideal,5,I,SI1,3
+846,2.35,Premium,4,I,SI2,2
+847,0.5,Good,2,D,SI1,3
+848,0.38,Ideal,5,E,SI2,2
+849,1.06,Ideal,5,G,VS1,4
+850,0.33,Ideal,5,G,VS2,5
+851,0.7,Fair,1,F,I1,1
+852,0.3,Ideal,5,D,VS2,5
+853,1.5,Good,2,I,SI2,2
+854,0.34,Very Good,3,G,VVS1,7
+855,0.59,Premium,4,D,VS1,4
+856,0.81,Premium,4,G,SI1,3
+857,0.55,Ideal,5,G,VVS2,6
+858,0.31,Ideal,5,E,VS1,4
+859,0.91,Good,2,G,VS2,5
+860,0.4,Premium,4,H,SI1,3
+861,0.81,Ideal,5,E,VS2,5
+862,0.31,Ideal,5,F,IF,8
+863,1.1,Premium,4,H,SI1,3
+864,0.31,Very Good,3,H,VVS2,6
+865,0.45,Ideal,5,G,VVS1,7
+866,0.32,Ideal,5,D,VS2,5
+867,0.32,Ideal,5,G,IF,8
+868,0.31,Premium,4,J,SI1,3
+869,1,Very Good,3,F,SI2,2
+870,2.02,Premium,4,I,SI2,2
+871,2.01,Premium,4,H,SI2,2
+872,1.02,Very Good,3,F,SI1,3
+873,1.16,Ideal,5,H,SI2,2
+874,0.77,Very Good,3,H,SI1,3
+875,0.59,Premium,4,I,IF,8
+876,0.34,Premium,4,D,SI2,2
+877,0.3,Good,2,I,IF,8
+878,0.58,Ideal,5,I,SI1,3
+879,0.52,Very Good,3,H,VS1,4
+880,0.33,Premium,4,G,VVS1,7
+881,1.38,Ideal,5,F,SI2,2
+882,0.71,Ideal,5,F,SI2,2
+883,0.96,Fair,1,F,SI2,2
+884,1.02,Ideal,5,E,VVS1,7
+885,0.53,Good,2,E,VS2,5
+886,0.9,Premium,4,D,SI2,2
+887,0.34,Fair,1,F,I1,1
+888,0.36,Very Good,3,H,VS2,5
+889,0.83,Very Good,3,F,VS1,4
+890,1.3,Premium,4,I,IF,8
+891,1.02,Ideal,5,E,SI1,3
+892,0.34,Ideal,5,E,VVS2,6
+893,0.54,Good,2,G,VS1,4
+894,0.56,Premium,4,G,VS1,4
+895,2.37,Ideal,5,J,VS2,5
+896,1.15,Ideal,5,H,SI2,2
+897,0.4,Ideal,5,H,VS1,4
+898,1.59,Ideal,5,G,VVS2,6
+899,1.42,Very Good,3,G,VVS2,6
+900,0.31,Ideal,5,E,VVS2,6
+901,0.57,Ideal,5,F,IF,8
+902,0.7,Premium,4,I,VS2,5
+903,0.41,Very Good,3,H,SI1,3
+904,0.55,Very Good,3,E,SI1,3
+905,1.01,Ideal,5,D,VS2,5
+906,0.24,Very Good,3,E,VVS2,6
+907,0.3,Very Good,3,E,SI1,3
+908,1.13,Ideal,5,F,SI1,3
+909,0.72,Premium,4,H,SI1,3
+910,0.52,Ideal,5,D,SI2,2
+911,1,Very Good,3,D,SI1,3
+912,0.47,Very Good,3,D,VS1,4
+913,0.41,Ideal,5,D,SI2,2
+914,0.51,Premium,4,G,SI1,3
+915,1,Very Good,3,F,SI1,3
+916,1.55,Good,2,H,VS2,5
+917,0.71,Very Good,3,G,VS2,5
+918,1.21,Ideal,5,G,VS2,5
+919,1.95,Very Good,3,H,VS2,5
+920,1.51,Premium,4,G,SI1,3
+921,0.3,Premium,4,D,VS2,5
+922,0.72,Very Good,3,D,VS2,5
+923,0.31,Ideal,5,E,VVS2,6
+924,0.53,Ideal,5,D,VS2,5
+925,0.71,Very Good,3,G,SI2,2
+926,1.07,Ideal,5,G,SI1,3
+927,0.24,Very Good,3,E,VS1,4
+928,1,Very Good,3,F,IF,8
+929,0.55,Ideal,5,G,VS1,4
+930,0.52,Ideal,5,E,VS2,5
+931,0.72,Ideal,5,G,SI2,2
+932,0.9,Good,2,G,SI1,3
+933,0.41,Ideal,5,F,VS2,5
+934,0.33,Ideal,5,G,SI1,3
+935,0.56,Very Good,3,H,VS1,4
+936,1.01,Very Good,3,F,SI2,2
+937,0.46,Premium,4,F,VVS1,7
+938,1.01,Very Good,3,I,SI1,3
+939,0.3,Ideal,5,F,VS2,5
+940,0.3,Premium,4,G,VS1,4
+941,2.02,Very Good,3,H,SI2,2
+942,0.32,Ideal,5,E,VVS2,6
+943,0.35,Premium,4,I,VS1,4
+944,0.34,Ideal,5,D,SI1,3
+945,0.6,Ideal,5,G,VS1,4
+946,0.41,Premium,4,I,VVS2,6
+947,1.01,Fair,1,G,VS1,4
+948,0.54,Ideal,5,H,VVS1,7
+949,1.01,Premium,4,E,SI2,2
+950,0.3,Ideal,5,H,VVS1,7
+951,1.06,Premium,4,F,I1,1
+952,0.7,Very Good,3,F,VS2,5
+953,1.53,Very Good,3,F,SI1,3
+954,0.82,Very Good,3,D,SI1,3
+955,0.32,Ideal,5,G,VVS1,7
+956,0.27,Very Good,3,F,VS1,4
+957,0.8,Ideal,5,F,VS2,5
+958,1.11,Ideal,5,G,VS1,4
+959,0.71,Premium,4,G,VS2,5
+960,0.61,Very Good,3,F,SI2,2
+961,1.31,Very Good,3,F,VS1,4
+962,0.71,Very Good,3,G,SI1,3
+963,0.9,Premium,4,E,SI2,2
+964,0.9,Premium,4,E,VS2,5
+965,0.74,Ideal,5,E,VS2,5
+966,0.3,Good,2,I,VS1,4
+967,1,Very Good,3,F,VS1,4
+968,0.3,Ideal,5,E,VS2,5
+969,0.39,Good,2,E,VVS2,6
+970,0.51,Premium,4,F,SI1,3
+971,0.81,Ideal,5,E,SI2,2
+972,1.62,Ideal,5,I,VS2,5
+973,1.62,Premium,4,F,SI2,2
+974,0.57,Very Good,3,E,VS2,5
+975,0.33,Ideal,5,G,VVS1,7
+976,0.42,Ideal,5,E,VS2,5
+977,1.51,Premium,4,J,VS2,5
+978,0.31,Ideal,5,D,VS2,5
+979,1.01,Very Good,3,G,SI1,3
+980,0.41,Good,2,E,VVS1,7
+981,0.7,Premium,4,F,SI1,3
+982,0.9,Good,2,H,SI2,2
+983,1.75,Good,2,D,SI1,3
+984,0.36,Ideal,5,F,SI1,3
+985,0.31,Ideal,5,F,IF,8
+986,0.8,Very Good,3,D,SI1,3
+987,0.32,Good,2,E,VS1,4
+988,1.01,Good,2,F,VS2,5
+989,0.72,Premium,4,I,SI1,3
+990,0.71,Very Good,3,G,VS2,5
+991,1.09,Ideal,5,E,SI2,2
+992,0.63,Very Good,3,G,VS1,4
+993,0.51,Ideal,5,D,VS1,4
+994,1.01,Very Good,3,G,VS2,5
+995,1.59,Premium,4,H,SI2,2
+996,0.54,Premium,4,F,VS1,4
+997,0.28,Very Good,3,G,VVS2,6
+998,0.54,Very Good,3,G,VVS1,7
+999,1.52,Ideal,5,H,SI1,3
+1000,1.13,Ideal,5,I,VS2,5
+1001,1.07,Ideal,5,G,VS2,5
+1002,0.31,Ideal,5,H,VS2,5
+1003,0.7,Ideal,5,G,VS2,5
+1004,0.33,Ideal,5,H,VVS1,7
+1005,1.65,Fair,1,J,SI1,3
+1006,0.54,Ideal,5,G,VVS2,6
+1007,0.71,Very Good,3,F,VS2,5
+1008,0.7,Very Good,3,G,VS2,5
+1009,2.05,Premium,4,H,VS2,5
+1010,1,Good,2,G,SI1,3
+1011,1.65,Ideal,5,G,VS2,5
+1012,0.37,Good,2,H,VS2,5
+1013,1.15,Premium,4,E,SI2,2
+1014,0.57,Ideal,5,H,VS2,5
+1015,0.72,Very Good,3,J,SI1,3
+1016,0.71,Ideal,5,D,SI1,3
+1017,0.7,Very Good,3,F,SI1,3
+1018,1.38,Very Good,3,F,VS1,4
+1019,0.73,Ideal,5,E,VVS2,6
+1020,0.39,Very Good,3,E,VVS2,6
+1021,2.14,Premium,4,D,SI2,2
+1022,1.12,Very Good,3,E,VS2,5
+1023,0.36,Very Good,3,D,SI1,3
+1024,0.42,Very Good,3,D,VS1,4
+1025,0.5,Ideal,5,I,SI1,3
+1026,2,Premium,4,J,VS2,5
+1027,0.3,Premium,4,F,VS2,5
+1028,1.35,Premium,4,H,VS1,4
+1029,1.57,Premium,4,G,SI1,3
+1030,0.31,Premium,4,G,VS2,5
+1031,0.33,Premium,4,E,VS2,5
+1032,1.02,Premium,4,H,SI1,3
+1033,1.01,Premium,4,G,VS2,5
+1034,0.83,Ideal,5,H,SI2,2
+1035,0.43,Very Good,3,G,SI1,3
+1036,1.2,Premium,4,H,SI2,2
+1037,1.01,Ideal,5,E,VS2,5
+1038,1.23,Ideal,5,I,SI2,2
+1039,0.53,Ideal,5,I,SI1,3
+1040,1,Ideal,5,H,SI2,2
+1041,0.4,Very Good,3,E,IF,8
+1042,0.71,Premium,4,J,VVS2,6
+1043,1.33,Very Good,3,H,SI2,2
+1044,0.43,Very Good,3,G,SI2,2
+1045,0.31,Very Good,3,G,VS1,4
+1046,1.21,Ideal,5,J,SI1,3
+1047,1.55,Premium,4,I,VS2,5
+1048,0.8,Ideal,5,F,VS2,5
+1049,0.71,Good,2,I,SI1,3
+1050,0.46,Fair,1,G,VS2,5
+1051,0.3,Ideal,5,I,SI1,3
+1052,1.21,Good,2,J,VVS2,6
+1053,2.14,Ideal,5,I,SI2,2
+1054,0.7,Good,2,I,SI2,2
+1055,1.03,Ideal,5,H,SI1,3
+1056,1.06,Very Good,3,E,SI1,3
+1057,1.41,Ideal,5,J,VS1,4
+1058,0.3,Premium,4,H,VS1,4
+1059,0.79,Very Good,3,I,SI1,3
+1060,0.37,Good,2,H,SI1,3
+1061,0.62,Premium,4,G,SI1,3
+1062,0.7,Very Good,3,I,VS2,5
+1063,0.39,Very Good,3,E,VVS2,6
+1064,1.12,Premium,4,G,VVS2,6
+1065,1.14,Very Good,3,E,IF,8
+1066,0.9,Ideal,5,H,VS1,4
+1067,0.5,Very Good,3,D,SI2,2
+1068,0.75,Ideal,5,D,SI2,2
+1069,0.38,Ideal,5,F,VVS2,6
+1070,1.07,Good,2,J,VS2,5
+1071,0.34,Very Good,3,D,SI2,2
+1072,1.25,Ideal,5,E,SI2,2
+1073,0.9,Fair,1,F,SI1,3
+1074,2.74,Very Good,3,J,SI2,2
+1075,0.71,Very Good,3,E,VS2,5
+1076,0.33,Ideal,5,G,VS1,4
+1077,0.91,Very Good,3,H,VS2,5
+1078,0.33,Very Good,3,G,VVS2,6
+1079,0.4,Very Good,3,E,SI1,3
+1080,1.11,Premium,4,F,SI1,3
+1081,0.24,Good,2,F,VVS1,7
+1082,1.01,Very Good,3,G,SI1,3
+1083,0.31,Very Good,3,H,VS1,4
+1084,0.34,Very Good,3,F,VVS2,6
+1085,0.64,Ideal,5,E,VS1,4
+1086,1.01,Very Good,3,F,SI2,2
+1087,0.7,Very Good,3,F,SI1,3
+1088,1.11,Very Good,3,J,SI1,3
+1089,0.7,Very Good,3,E,VS1,4
+1090,0.43,Ideal,5,G,VS1,4
+1091,0.91,Ideal,5,G,VS1,4
+1092,0.94,Very Good,3,D,SI2,2
+1093,0.3,Premium,4,G,IF,8
+1094,0.31,Ideal,5,D,VS2,5
+1095,1.51,Very Good,3,G,VS2,5
+1096,1.04,Premium,4,D,VS1,4
+1097,0.38,Ideal,5,H,VS1,4
+1098,1.01,Good,2,F,VS2,5
+1099,0.5,Fair,1,G,VS1,4
+1100,0.52,Ideal,5,G,SI2,2
+1101,1.05,Ideal,5,J,VS1,4
+1102,1.54,Ideal,5,G,VVS2,6
+1103,1,Premium,4,I,VS1,4
+1104,1.52,Very Good,3,H,SI1,3
+1105,1.12,Very Good,3,F,SI1,3
+1106,0.73,Ideal,5,G,VS1,4
+1107,1.08,Good,2,G,SI2,2
+1108,0.36,Ideal,5,F,VS2,5
+1109,1.01,Ideal,5,F,VS1,4
+1110,0.55,Ideal,5,H,SI1,3
+1111,0.9,Good,2,G,VS2,5
+1112,0.43,Ideal,5,G,VVS1,7
+1113,0.54,Ideal,5,I,SI2,2
+1114,0.6,Premium,4,E,SI1,3
+1115,1.2,Premium,4,H,SI1,3
+1116,0.53,Good,2,F,VVS2,6
+1117,3.01,Fair,1,H,I1,1
+1118,0.58,Ideal,5,H,SI1,3
+1119,0.63,Ideal,5,D,SI1,3
+1120,0.52,Premium,4,I,VVS1,7
+1121,1.07,Very Good,3,G,VS1,4
+1122,0.3,Very Good,3,G,VVS1,7
+1123,1.13,Good,2,F,SI2,2
+1124,0.51,Good,2,H,VS2,5
+1125,0.23,Good,2,E,VVS2,6
+1126,0.46,Ideal,5,E,VVS1,7
+1127,0.33,Ideal,5,E,SI1,3
+1128,2.05,Premium,4,E,SI2,2
+1129,0.3,Very Good,3,H,VS1,4
+1130,0.69,Fair,1,G,VS1,4
+1131,0.3,Ideal,5,F,IF,8
+1132,0.41,Ideal,5,D,SI2,2
+1133,0.9,Ideal,5,G,SI2,2
+1134,0.41,Premium,4,F,VS1,4
+1135,1.01,Very Good,3,E,VS2,5
+1136,0.57,Very Good,3,G,SI1,3
+1137,1.22,Very Good,3,H,VS1,4
+1138,0.31,Premium,4,F,I1,1
+1139,0.73,Ideal,5,E,VS2,5
+1140,0.53,Ideal,5,G,VS2,5
+1141,0.3,Very Good,3,D,VS2,5
+1142,0.53,Very Good,3,D,VS1,4
+1143,0.71,Very Good,3,H,SI1,3
+1144,0.54,Premium,4,E,VS2,5
+1145,0.41,Premium,4,E,VS1,4
+1146,0.9,Ideal,5,E,SI2,2
+1147,1.03,Very Good,3,F,SI2,2
+1148,1.08,Premium,4,F,SI1,3
+1149,0.32,Premium,4,D,VVS1,7
+1150,0.43,Good,2,E,SI1,3
+1151,0.7,Ideal,5,H,SI1,3
+1152,0.74,Ideal,5,F,VVS1,7
+1153,1.5,Premium,4,G,VVS2,6
+1154,0.34,Ideal,5,F,VVS1,7
+1155,0.57,Ideal,5,G,VS1,4
+1156,1,Good,2,F,SI1,3
+1157,0.7,Ideal,5,F,VS2,5
+1158,1.01,Ideal,5,E,SI1,3
+1159,0.25,Premium,4,H,VVS1,7
+1160,0.53,Ideal,5,E,VVS1,7
+1161,0.96,Very Good,3,E,VS2,5
+1162,1.25,Ideal,5,H,VS2,5
+1163,0.73,Ideal,5,E,SI2,2
+1164,0.34,Very Good,3,E,SI1,3
+1165,0.74,Premium,4,D,SI1,3
+1166,1.11,Very Good,3,H,SI1,3
+1167,0.54,Ideal,5,E,VVS2,6
+1168,0.95,Very Good,3,G,VS1,4
+1169,0.41,Ideal,5,I,VVS1,7
+1170,0.28,Very Good,3,H,VVS1,7
+1171,0.34,Premium,4,H,VVS1,7
+1172,1.64,Premium,4,G,VS2,5
+1173,0.71,Ideal,5,I,IF,8
+1174,0.74,Very Good,3,D,VS2,5
+1175,0.74,Ideal,5,G,VVS2,6
+1176,0.6,Premium,4,H,SI1,3
+1177,0.44,Ideal,5,D,VS1,4
+1178,0.79,Very Good,3,F,SI1,3
+1179,0.58,Ideal,5,I,SI1,3
+1180,1,Good,2,E,VVS2,6
+1181,0.34,Ideal,5,G,VS1,4
+1182,0.31,Premium,4,F,VVS1,7
+1183,0.31,Good,2,E,SI1,3
+1184,1.81,Very Good,3,I,VS1,4
+1185,0.3,Premium,4,G,VS1,4
+1186,2.19,Premium,4,J,SI2,2
+1187,0.91,Ideal,5,G,SI2,2
+1188,0.37,Ideal,5,G,VS2,5
+1189,1.57,Premium,4,G,VS2,5
+1190,1,Premium,4,I,SI2,2
+1191,1.09,Ideal,5,H,SI1,3
+1192,0.31,Good,2,I,VS1,4
+1193,0.5,Very Good,3,D,VS2,5
+1194,0.41,Premium,4,E,VS1,4
+1195,1.23,Ideal,5,H,SI1,3
+1196,1.09,Premium,4,I,SI1,3
+1197,0.4,Ideal,5,I,VS1,4
+1198,0.42,Ideal,5,J,VS1,4
+1199,1.02,Ideal,5,G,SI1,3
+1200,1,Very Good,3,F,SI2,2
+1201,0.26,Very Good,3,G,VS2,5
+1202,0.23,Good,2,G,VVS1,7
+1203,0.46,Premium,4,I,IF,8
+1204,0.4,Good,2,E,SI2,2
+1205,2.05,Ideal,5,G,SI2,2
+1206,0.41,Ideal,5,E,VVS1,7
+1207,2.03,Ideal,5,J,VS2,5
+1208,2.28,Ideal,5,I,SI2,2
+1209,0.72,Very Good,3,F,VVS1,7
+1210,1.52,Good,2,I,VS2,5
+1211,1.51,Premium,4,F,VS2,5
+1212,1.14,Very Good,3,J,SI1,3
+1213,0.51,Ideal,5,F,VS1,4
+1214,0.3,Ideal,5,I,SI2,2
+1215,0.31,Premium,4,G,VS2,5
+1216,1.5,Very Good,3,D,SI1,3
+1217,0.52,Ideal,5,E,VS2,5
+1218,0.7,Fair,1,D,SI1,3
+1219,0.3,Ideal,5,E,VVS1,7
+1220,0.5,Fair,1,F,SI1,3
+1221,1.54,Premium,4,H,VS2,5
+1222,1.2,Ideal,5,D,SI1,3
+1223,0.79,Very Good,3,E,SI2,2
+1224,1.2,Good,2,E,VS2,5
+1225,2.01,Premium,4,E,SI1,3
+1226,0.72,Very Good,3,H,VS1,4
+1227,1.1,Very Good,3,E,SI2,2
+1228,0.23,Very Good,3,E,VVS2,6
+1229,0.94,Ideal,5,F,I1,1
+1230,2.16,Very Good,3,H,SI2,2
+1231,0.27,Very Good,3,E,VVS2,6
+1232,0.35,Ideal,5,E,SI1,3
+1233,0.38,Ideal,5,G,VS1,4
+1234,1.21,Very Good,3,F,VS1,4
+1235,0.3,Premium,4,E,VVS2,6
+1236,0.56,Ideal,5,D,VS2,5
+1237,0.3,Good,2,H,SI2,2
+1238,1.01,Premium,4,D,SI1,3
+1239,0.34,Ideal,5,D,VS2,5
+1240,0.32,Premium,4,E,VVS1,7
+1241,1.01,Very Good,3,D,SI2,2
+1242,0.31,Premium,4,E,SI1,3
+1243,0.51,Ideal,5,G,SI1,3
+1244,0.36,Premium,4,E,VS1,4
+1245,0.5,Premium,4,D,SI1,3
+1246,0.21,Premium,4,E,SI2,2
+1247,0.9,Very Good,3,H,SI1,3
+1248,1.03,Premium,4,E,SI2,2
+1249,0.37,Ideal,5,F,SI1,3
+1250,0.5,Premium,4,F,SI1,3
+1251,1.01,Very Good,3,G,VS1,4
+1252,0.84,Good,2,G,VS2,5
+1253,0.76,Very Good,3,G,VS2,5
+1254,0.23,Very Good,3,E,VVS1,7
+1255,1.03,Premium,4,H,VS2,5
+1256,0.9,Good,2,I,VS2,5
+1257,0.32,Ideal,5,F,VVS1,7
+1258,0.55,Ideal,5,F,VS2,5
+1259,1.55,Premium,4,G,SI1,3
+1260,0.35,Ideal,5,D,VS2,5
+1261,1.51,Very Good,3,G,VS1,4
+1262,0.38,Ideal,5,F,VS2,5
+1263,0.33,Very Good,3,I,VVS2,6
+1264,0.31,Ideal,5,G,IF,8
+1265,0.3,Ideal,5,F,VS2,5
+1266,1.22,Ideal,5,H,VS1,4
+1267,0.4,Premium,4,F,VS1,4
+1268,1.51,Very Good,3,J,I1,1
+1269,1.01,Good,2,F,SI2,2
+1270,0.51,Good,2,E,SI1,3
+1271,0.32,Premium,4,F,VVS1,7
+1272,1.28,Ideal,5,H,SI2,2
+1273,0.33,Ideal,5,D,SI2,2
+1274,1.11,Ideal,5,E,VS2,5
+1275,2.21,Premium,4,G,SI2,2
+1276,0.43,Good,2,F,SI1,3
+1277,0.7,Premium,4,G,IF,8
+1278,0.25,Very Good,3,F,IF,8
+1279,0.5,Good,2,H,VS2,5
+1280,0.24,Good,2,F,VS1,4
+1281,0.3,Premium,4,E,SI1,3
+1282,1.11,Very Good,3,H,SI2,2
+1283,1.02,Fair,1,I,SI2,2
+1284,0.31,Ideal,5,G,VVS1,7
+1285,0.39,Ideal,5,G,VS1,4
+1286,0.5,Premium,4,E,VS2,5
+1287,0.7,Ideal,5,F,SI1,3
+1288,0.32,Very Good,3,G,SI1,3
+1289,0.3,Very Good,3,H,VS1,4
+1290,0.41,Ideal,5,G,VVS2,6
+1291,1.33,Fair,1,G,SI2,2
+1292,0.3,Ideal,5,I,VVS1,7
+1293,1.51,Premium,4,F,VS2,5
+1294,0.38,Ideal,5,F,VVS1,7
+1295,0.23,Very Good,3,D,VS2,5
+1296,0.74,Ideal,5,G,VS2,5
+1297,1.2,Very Good,3,H,SI2,2
+1298,1.52,Ideal,5,G,SI1,3
+1299,1.01,Ideal,5,G,VS2,5
+1300,0.44,Ideal,5,E,VS2,5
+1301,1.2,Premium,4,G,SI1,3
+1302,1.3,Good,2,J,SI2,2
+1303,0.31,Premium,4,H,SI1,3
+1304,1.2,Ideal,5,G,VVS2,6
+1305,0.79,Premium,4,D,SI1,3
+1306,1.05,Ideal,5,F,VVS1,7
+1307,0.7,Premium,4,G,SI2,2
+1308,0.3,Very Good,3,J,VS2,5
+1309,1.25,Ideal,5,G,VVS2,6
+1310,2.07,Very Good,3,J,VS2,5
+1311,1.52,Premium,4,F,VS2,5
+1312,0.31,Ideal,5,G,VS2,5
+1313,0.94,Ideal,5,F,SI2,2
+1314,0.27,Very Good,3,E,VS2,5
+1315,0.32,Ideal,5,G,IF,8
+1316,0.35,Ideal,5,F,VS1,4
+1317,1.2,Ideal,5,F,VVS1,7
+1318,1.51,Premium,4,E,SI1,3
+1319,0.4,Ideal,5,G,VS2,5
+1320,0.33,Premium,4,G,VVS2,6
+1321,1.51,Very Good,3,I,IF,8
+1322,0.72,Premium,4,J,I1,1
+1323,0.84,Very Good,3,G,VS2,5
+1324,1.06,Very Good,3,F,SI1,3
+1325,1.01,Premium,4,F,VS2,5
+1326,0.38,Ideal,5,F,VVS2,6
+1327,0.72,Ideal,5,H,VS1,4
+1328,1.61,Very Good,3,E,SI2,2
+1329,1.5,Very Good,3,J,VS1,4
+1330,0.78,Good,2,J,SI1,3
+1331,0.69,Fair,1,G,SI2,2
+1332,0.32,Ideal,5,E,VS2,5
+1333,0.51,Ideal,5,H,VVS2,6
+1334,0.34,Ideal,5,F,VS1,4
+1335,1.49,Very Good,3,F,I1,1
+1336,0.5,Premium,4,F,VS1,4
+1337,0.9,Good,2,E,SI1,3
+1338,2.2,Premium,4,J,VS1,4
+1339,0.51,Premium,4,G,VVS2,6
+1340,2.38,Premium,4,H,SI1,3
+1341,0.9,Premium,4,D,SI2,2
+1342,1.05,Ideal,5,H,SI1,3
+1343,0.61,Premium,4,I,VS2,5
+1344,0.71,Very Good,3,H,VVS1,7
+1345,1.01,Ideal,5,J,SI1,3
+1346,0.4,Premium,4,H,VS2,5
+1347,0.57,Premium,4,E,SI2,2
+1348,1.74,Ideal,5,J,SI1,3
+1349,0.37,Very Good,3,D,VS2,5
+1350,0.53,Fair,1,E,SI1,3
+1351,2.4,Fair,1,J,SI2,2
+1352,0.71,Premium,4,E,SI1,3
+1353,0.71,Fair,1,D,VS2,5
+1354,0.51,Very Good,3,F,VS1,4
+1355,0.95,Fair,1,J,SI1,3
+1356,0.32,Good,2,F,VS2,5
+1357,0.31,Premium,4,J,VS2,5
+1358,0.9,Good,2,E,SI1,3
+1359,0.51,Ideal,5,G,VVS2,6
+1360,1.7,Premium,4,G,VS2,5
+1361,0.31,Premium,4,E,VS2,5
+1362,0.5,Very Good,3,E,VS2,5
+1363,1.55,Very Good,3,D,SI2,2
+1364,1.01,Very Good,3,E,SI1,3
+1365,1.01,Very Good,3,E,SI1,3
+1366,1.18,Ideal,5,I,SI1,3
+1367,0.3,Ideal,5,F,VVS1,7
+1368,0.76,Very Good,3,H,SI1,3
+1369,0.92,Good,2,D,SI1,3
+1370,0.72,Fair,1,H,SI2,2
+1371,1.5,Very Good,3,D,VS2,5
+1372,1.01,Ideal,5,H,SI1,3
+1373,1.1,Ideal,5,H,SI1,3
+1374,0.34,Very Good,3,F,SI2,2
+1375,0.53,Ideal,5,E,SI1,3
+1376,1.6,Premium,4,J,SI1,3
+1377,0.31,Ideal,5,H,SI1,3
+1378,0.31,Ideal,5,E,VS1,4
+1379,1.5,Good,2,H,VS2,5
+1380,1.02,Good,2,E,SI2,2
+1381,1.01,Ideal,5,F,SI1,3
+1382,0.4,Ideal,5,F,VVS2,6
+1383,0.4,Ideal,5,E,VS2,5
+1384,1.12,Premium,4,H,SI1,3
+1385,0.31,Premium,4,H,SI1,3
+1386,1.52,Premium,4,G,VVS2,6
+1387,1.6,Ideal,5,I,SI2,2
+1388,2,Premium,4,G,SI1,3
+1389,0.58,Ideal,5,E,VS1,4
+1390,2.06,Very Good,3,J,SI1,3
+1391,0.56,Ideal,5,E,SI1,3
+1392,0.51,Very Good,3,I,VS1,4
+1393,1.01,Premium,4,H,VS2,5
+1394,0.5,Very Good,3,J,VS2,5
+1395,1.51,Ideal,5,G,VS1,4
+1396,0.8,Premium,4,F,SI2,2
+1397,0.52,Premium,4,G,VVS2,6
+1398,1.48,Good,2,G,IF,8
+1399,0.31,Ideal,5,D,VS2,5
+1400,1.01,Ideal,5,D,SI2,2
+1401,0.32,Very Good,3,H,SI1,3
+1402,0.51,Premium,4,E,VS1,4
+1403,0.71,Premium,4,H,SI2,2
+1404,0.61,Very Good,3,I,VS2,5
+1405,1.69,Premium,4,J,I1,1
+1406,0.57,Ideal,5,E,VVS2,6
+1407,1.22,Good,2,G,SI2,2
+1408,1.38,Premium,4,J,SI1,3
+1409,1.18,Ideal,5,I,VS1,4
+1410,0.51,Ideal,5,G,VVS2,6
+1411,1.7,Ideal,5,D,SI2,2
+1412,0.4,Good,2,F,I1,1
+1413,0.71,Ideal,5,F,VS1,4
+1414,0.93,Good,2,G,SI1,3
+1415,0.39,Very Good,3,I,VVS2,6
+1416,1.01,Ideal,5,G,VVS2,6
+1417,1.6,Premium,4,G,VS2,5
+1418,0.32,Ideal,5,G,VVS1,7
+1419,0.32,Good,2,D,SI2,2
+1420,1,Very Good,3,E,SI2,2
+1421,0.57,Ideal,5,E,VS2,5
+1422,1,Premium,4,H,SI1,3
+1423,0.53,Ideal,5,G,VVS2,6
+1424,1.56,Premium,4,H,VS1,4
+1425,0.5,Premium,4,G,VS1,4
+1426,1.06,Ideal,5,G,VS2,5
+1427,0.33,Premium,4,H,VS1,4
+1428,0.9,Very Good,3,G,VVS2,6
+1429,1,Premium,4,F,SI1,3
+1430,0.31,Ideal,5,I,VVS1,7
+1431,1.24,Ideal,5,H,SI2,2
+1432,1.01,Ideal,5,D,VS2,5
+1433,1.02,Ideal,5,G,VS1,4
+1434,1.01,Premium,4,E,SI1,3
+1435,0.53,Very Good,3,F,SI2,2
+1436,0.53,Ideal,5,D,VS2,5
+1437,1.58,Premium,4,F,SI2,2
+1438,1.04,Premium,4,D,VVS2,6
+1439,0.32,Ideal,5,E,IF,8
+1440,0.58,Premium,4,G,VS2,5
+1441,1.2,Ideal,5,E,VVS1,7
+1442,1.07,Premium,4,F,SI2,2
+1443,1.06,Very Good,3,F,SI1,3
+1444,0.53,Ideal,5,G,VS2,5
+1445,0.33,Ideal,5,F,VVS2,6
+1446,0.7,Very Good,3,E,SI1,3
+1447,1.21,Premium,4,G,VS2,5
+1448,0.3,Very Good,3,D,SI1,3
+1449,0.52,Ideal,5,H,SI1,3
+1450,1.16,Good,2,F,SI2,2
+1451,0.73,Very Good,3,G,SI1,3
+1452,2.02,Ideal,5,J,VS2,5
+1453,0.37,Ideal,5,G,VS1,4
+1454,1.01,Very Good,3,G,SI1,3
+1455,0.52,Ideal,5,D,VS2,5
+1456,0.7,Good,2,E,VS2,5
+1457,0.4,Ideal,5,D,VVS1,7
+1458,1,Good,2,E,VS2,5
+1459,1.21,Ideal,5,E,SI1,3
+1460,1.08,Ideal,5,F,VS2,5
+1461,0.4,Ideal,5,F,VVS1,7
+1462,0.9,Very Good,3,F,VS2,5
+1463,0.41,Ideal,5,I,VVS2,6
+1464,1,Very Good,3,J,SI2,2
+1465,0.5,Very Good,3,E,SI1,3
+1466,1.19,Ideal,5,G,VVS1,7
+1467,0.5,Very Good,3,E,SI1,3
+1468,0.3,Premium,4,D,VS2,5
+1469,2.01,Good,2,F,SI2,2
+1470,0.32,Ideal,5,E,VVS2,6
+1471,0.43,Ideal,5,F,VVS1,7
+1472,0.31,Ideal,5,D,SI1,3
+1473,2.07,Premium,4,J,VS2,5
+1474,1.03,Ideal,5,E,SI1,3
+1475,0.7,Very Good,3,D,VS2,5
+1476,2.02,Very Good,3,G,SI2,2
+1477,0.57,Very Good,3,J,IF,8
+1478,1.13,Ideal,5,H,SI1,3
+1479,0.51,Very Good,3,G,VS2,5
+1480,0.27,Ideal,5,I,IF,8
+1481,1.5,Premium,4,D,VS2,5
+1482,1.03,Very Good,3,D,SI2,2
+1483,1.51,Very Good,3,I,SI2,2
+1484,0.72,Ideal,5,H,VVS1,7
+1485,1.71,Premium,4,I,VS2,5
+1486,0.4,Very Good,3,D,VS2,5
+1487,1.51,Very Good,3,F,VVS2,6
+1488,0.5,Ideal,5,H,SI1,3
+1489,1.14,Premium,4,F,SI1,3
+1490,0.33,Ideal,5,E,VS2,5
+1491,1.6,Premium,4,F,SI1,3
+1492,0.3,Good,2,E,VS2,5
+1493,0.73,Ideal,5,E,SI1,3
+1494,0.59,Very Good,3,G,SI1,3
+1495,0.47,Ideal,5,H,VS2,5
+1496,0.4,Premium,4,G,VVS2,6
+1497,0.3,Ideal,5,F,VS2,5
+1498,1.01,Very Good,3,H,VVS2,6
+1499,0.72,Very Good,3,E,SI1,3
+1500,0.63,Ideal,5,E,VS1,4
+1501,1.53,Ideal,5,F,VS1,4
+1502,0.4,Good,2,F,VS2,5
+1503,1.2,Fair,1,G,I1,1
+1504,0.78,Ideal,5,F,SI1,3
+1505,0.27,Premium,4,E,VS1,4
+1506,0.92,Very Good,3,D,SI1,3
+1507,0.34,Ideal,5,E,IF,8
+1508,0.26,Very Good,3,F,VVS1,7
+1509,1.05,Ideal,5,H,SI1,3
+1510,0.4,Very Good,3,F,VVS1,7
+1511,2.01,Very Good,3,I,VVS2,6
+1512,1.05,Ideal,5,I,SI1,3
+1513,0.3,Ideal,5,E,VVS1,7
+1514,0.47,Very Good,3,F,VVS2,6
+1515,1.02,Good,2,D,VS1,4
+1516,1.59,Premium,4,G,SI1,3
+1517,1,Very Good,3,E,SI2,2
+1518,2.15,Ideal,5,I,SI2,2
+1519,0.4,Very Good,3,E,SI1,3
+1520,1.01,Premium,4,E,VS1,4
+1521,1.6,Ideal,5,G,SI1,3
+1522,2.01,Ideal,5,G,SI1,3
+1523,0.3,Ideal,5,E,VS2,5
+1524,0.42,Ideal,5,D,VVS2,6
+1525,0.4,Very Good,3,F,VVS1,7
+1526,0.76,Very Good,3,H,VS2,5
+1527,0.41,Ideal,5,F,VS2,5
+1528,0.56,Ideal,5,H,VVS1,7
+1529,0.7,Good,2,F,SI1,3
+1530,2.29,Premium,4,G,SI2,2
+1531,1.05,Fair,1,I,VS1,4
+1532,1.52,Very Good,3,H,VVS2,6
+1533,0.4,Very Good,3,H,VVS1,7
+1534,1.2,Premium,4,G,SI2,2
+1535,0.26,Ideal,5,I,VS2,5
+1536,1.74,Ideal,5,F,SI1,3
+1537,0.71,Fair,1,D,VS2,5
+1538,1.22,Ideal,5,H,SI2,2
+1539,0.41,Premium,4,E,VS1,4
+1540,0.31,Fair,1,G,VS1,4
+1541,1.01,Good,2,E,SI1,3
+1542,1.02,Very Good,3,E,SI1,3
+1543,1.23,Premium,4,I,SI2,2
+1544,0.63,Good,2,F,VS1,4
+1545,0.75,Ideal,5,E,SI2,2
+1546,0.43,Very Good,3,G,VVS1,7
+1547,1.24,Ideal,5,H,SI1,3
+1548,0.5,Premium,4,G,VS1,4
+1549,1.01,Ideal,5,D,VVS2,6
+1550,0.31,Premium,4,E,SI2,2
+1551,0.7,Very Good,3,E,VS2,5
+1552,0.38,Premium,4,I,SI2,2
+1553,2.29,Premium,4,G,SI2,2
+1554,0.85,Fair,1,I,SI1,3
+1555,0.32,Ideal,5,E,VS1,4
+1556,1.01,Very Good,3,G,VS2,5
+1557,0.31,Ideal,5,G,VVS2,6
+1558,0.52,Premium,4,E,VS2,5
+1559,0.4,Ideal,5,D,VVS2,6
+1560,0.7,Very Good,3,H,VS2,5
+1561,1.31,Premium,4,D,VVS1,7
+1562,0.5,Premium,4,G,VVS2,6
+1563,1.5,Premium,4,H,VS2,5
+1564,0.7,Premium,4,F,SI1,3
+1565,0.31,Very Good,3,I,VVS1,7
+1566,1,Good,2,G,SI1,3
+1567,0.41,Premium,4,E,VS1,4
+1568,1.04,Premium,4,G,SI2,2
+1569,0.32,Very Good,3,H,SI2,2
+1570,0.78,Very Good,3,I,SI1,3
+1571,1.01,Very Good,3,D,VS2,5
+1572,0.9,Good,2,F,SI2,2
+1573,0.9,Premium,4,G,VS2,5
+1574,1.71,Very Good,3,F,SI1,3
+1575,0.41,Ideal,5,F,IF,8
+1576,1,Ideal,5,H,SI2,2
+1577,0.56,Ideal,5,G,VVS2,6
+1578,0.43,Premium,4,G,VS1,4
+1579,0.95,Ideal,5,G,VS2,5
+1580,0.83,Ideal,5,I,SI2,2
+1581,0.51,Ideal,5,D,VS2,5
+1582,0.7,Fair,1,D,SI2,2
+1583,0.41,Premium,4,F,VS1,4
+1584,0.32,Ideal,5,G,IF,8
+1585,0.7,Very Good,3,G,VS2,5
+1586,0.7,Premium,4,D,SI1,3
+1587,0.53,Ideal,5,H,VS1,4
+1588,0.9,Good,2,E,SI1,3
+1589,0.72,Premium,4,F,SI1,3
+1590,0.3,Very Good,3,D,SI2,2
+1591,1,Premium,4,E,VS2,5
+1592,1.57,Very Good,3,J,VS2,5
+1593,0.51,Ideal,5,D,VS2,5
+1594,1.3,Fair,1,H,I1,1
+1595,1.07,Ideal,5,E,VVS2,6
+1596,1.55,Ideal,5,J,VS2,5
+1597,0.9,Premium,4,H,I1,1
+1598,0.72,Premium,4,D,SI2,2
+1599,1,Premium,4,E,SI2,2
+1600,0.55,Ideal,5,F,SI1,3
+1601,1.36,Good,2,G,SI1,3
+1602,0.26,Premium,4,H,VVS2,6
+1603,1.08,Ideal,5,H,SI2,2
+1604,0.79,Ideal,5,G,SI1,3
+1605,0.9,Very Good,3,J,VS2,5
+1606,0.9,Very Good,3,E,SI1,3
+1607,1.13,Fair,1,F,VS1,4
+1608,1,Good,2,H,SI2,2
+1609,1.51,Ideal,5,G,VVS2,6
+1610,1.2,Ideal,5,F,VS1,4
+1611,1.01,Very Good,3,F,SI1,3
+1612,1.03,Ideal,5,I,SI2,2
+1613,0.9,Ideal,5,F,SI1,3
+1614,0.38,Premium,4,D,VVS2,6
+1615,0.84,Ideal,5,J,SI1,3
+1616,0.39,Ideal,5,F,VVS1,7
+1617,0.33,Ideal,5,G,VVS2,6
+1618,0.7,Ideal,5,E,VS2,5
+1619,0.75,Ideal,5,H,SI1,3
+1620,0.42,Ideal,5,G,VS2,5
+1621,1.03,Ideal,5,F,VVS2,6
+1622,0.81,Premium,4,I,VVS2,6
+1623,0.31,Ideal,5,G,VVS1,7
+1624,1.15,Very Good,3,E,SI2,2
+1625,0.29,Very Good,3,E,VS1,4
+1626,1,Good,2,J,VS2,5
+1627,0.9,Very Good,3,H,SI2,2
+1628,0.55,Ideal,5,D,VS2,5
+1629,2.11,Ideal,5,D,SI2,2
+1630,1,Very Good,3,G,VVS2,6
+1631,0.37,Good,2,E,VS2,5
+1632,0.5,Ideal,5,D,VS2,5
+1633,0.3,Ideal,5,I,VS1,4
+1634,0.7,Very Good,3,F,SI1,3
+1635,0.9,Premium,4,E,SI1,3
+1636,0.41,Ideal,5,I,VS2,5
+1637,0.33,Premium,4,G,VVS2,6
+1638,0.68,Premium,4,D,SI1,3
+1639,0.73,Very Good,3,G,SI2,2
+1640,0.52,Ideal,5,E,SI1,3
+1641,0.47,Fair,1,E,SI1,3
+1642,0.71,Good,2,H,SI1,3
+1643,0.7,Very Good,3,I,VS2,5
+1644,0.94,Very Good,3,D,SI1,3
+1645,0.41,Premium,4,G,SI1,3
+1646,0.41,Premium,4,E,SI1,3
+1647,0.34,Ideal,5,H,VS1,4
+1648,0.75,Very Good,3,E,SI1,3
+1649,2.01,Premium,4,I,SI2,2
+1650,1,Ideal,5,G,VVS2,6
+1651,1.21,Very Good,3,H,VS1,4
+1652,0.74,Very Good,3,D,SI2,2
+1653,0.42,Good,2,F,SI1,3
+1654,0.51,Ideal,5,D,VVS2,6
+1655,1.57,Very Good,3,H,VS2,5
+1656,1,Premium,4,F,SI1,3
+1657,0.7,Ideal,5,G,VS1,4
+1658,0.92,Ideal,5,E,SI1,3
+1659,0.41,Ideal,5,G,VS1,4
+1660,0.65,Very Good,3,H,VVS1,7
+1661,0.3,Premium,4,J,VS1,4
+1662,0.94,Ideal,5,D,SI2,2
+1663,0.32,Good,2,G,VS2,5
+1664,1.2,Ideal,5,I,SI1,3
+1665,1,Ideal,5,G,VVS2,6
+1666,1.01,Premium,4,G,VS2,5
+1667,0.37,Ideal,5,F,VVS1,7
+1668,1.55,Good,2,J,VS1,4
+1669,0.52,Good,2,E,SI1,3
+1670,0.51,Ideal,5,G,VS1,4
+1671,0.5,Good,2,E,SI1,3
+1672,1.21,Very Good,3,D,SI2,2
+1673,1.01,Premium,4,E,SI2,2
+1674,1.12,Ideal,5,F,VVS2,6
+1675,1.26,Ideal,5,H,SI1,3
+1676,0.72,Ideal,5,F,SI2,2
+1677,1.03,Ideal,5,G,SI1,3
+1678,0.32,Ideal,5,F,IF,8
+1679,0.3,Premium,4,G,VVS2,6
+1680,0.72,Good,2,F,VS2,5
+1681,0.76,Premium,4,E,SI2,2
+1682,1.02,Premium,4,H,VS2,5
+1683,1.7,Premium,4,I,VS2,5
+1684,0.41,Ideal,5,I,VS1,4
+1685,2.09,Very Good,3,F,SI2,2
+1686,1.08,Ideal,5,G,IF,8
+1687,1.06,Premium,4,H,VS2,5
+1688,1.26,Very Good,3,I,VS1,4
+1689,0.8,Very Good,3,J,VS1,4
+1690,1,Very Good,3,E,VS2,5
+1691,0.3,Ideal,5,H,VS2,5
+1692,0.42,Very Good,3,E,SI1,3
+1693,0.93,Ideal,5,D,SI2,2
+1694,0.3,Good,2,I,VVS1,7
+1695,0.3,Ideal,5,G,IF,8
+1696,0.43,Very Good,3,G,VS1,4
+1697,0.71,Good,2,I,VVS2,6
+1698,0.41,Good,2,E,VVS2,6
+1699,0.95,Premium,4,G,SI2,2
+1700,2,Very Good,3,G,SI2,2
+1701,1.05,Very Good,3,G,VS2,5
+1702,0.34,Very Good,3,I,SI1,3
+1703,2,Premium,4,J,I1,1
+1704,1.04,Very Good,3,F,VS2,5
+1705,0.52,Ideal,5,G,SI1,3
+1706,2.07,Very Good,3,H,SI2,2
+1707,0.91,Fair,1,H,SI2,2
+1708,0.5,Ideal,5,H,SI1,3
+1709,1.51,Premium,4,E,SI2,2
+1710,0.3,Good,2,F,VVS1,7
+1711,0.55,Ideal,5,G,VS2,5
+1712,1.2,Premium,4,E,VVS2,6
+1713,1.01,Premium,4,H,VS2,5
+1714,0.51,Ideal,5,G,VVS2,6
+1715,0.53,Ideal,5,I,VS1,4
+1716,1.2,Ideal,5,E,VVS1,7
+1717,0.71,Very Good,3,H,VVS2,6
+1718,0.32,Very Good,3,G,VVS1,7
+1719,2.13,Ideal,5,I,SI2,2
+1720,1.1,Ideal,5,G,VS1,4
+1721,0.7,Ideal,5,H,VVS2,6
+1722,0.3,Premium,4,D,SI1,3
+1723,0.48,Very Good,3,E,SI1,3
+1724,0.3,Ideal,5,D,SI1,3
+1725,0.32,Ideal,5,F,VS2,5
+1726,0.71,Ideal,5,D,VS1,4
+1727,1.25,Ideal,5,F,VS1,4
+1728,0.51,Ideal,5,I,VVS2,6
+1729,0.73,Very Good,3,H,VS1,4
+1730,0.41,Good,2,G,VVS1,7
+1731,1.23,Ideal,5,F,VVS2,6
+1732,0.55,Ideal,5,I,VVS1,7
+1733,0.58,Very Good,3,D,SI1,3
+1734,0.97,Premium,4,D,SI1,3
+1735,0.33,Ideal,5,E,VS2,5
+1736,0.33,Ideal,5,G,VVS2,6
+1737,0.41,Ideal,5,J,VS1,4
+1738,0.27,Ideal,5,F,VVS1,7
+1739,0.3,Very Good,3,G,SI1,3
+1740,0.52,Ideal,5,E,VVS2,6
+1741,0.42,Ideal,5,E,VVS1,7
+1742,1.01,Good,2,E,SI2,2
+1743,0.39,Ideal,5,G,VVS1,7
+1744,0.43,Very Good,3,E,SI1,3
+1745,0.72,Ideal,5,F,VVS2,6
+1746,0.23,Very Good,3,H,VVS1,7
+1747,0.79,Very Good,3,D,VS1,4
+1748,0.35,Ideal,5,G,IF,8
+1749,0.24,Very Good,3,J,VVS2,6
+1750,0.68,Very Good,3,F,VVS2,6
+1751,1.02,Very Good,3,E,VS1,4
+1752,0.71,Ideal,5,F,SI2,2
+1753,0.76,Premium,4,I,VVS1,7
+1754,0.41,Ideal,5,G,VVS2,6
+1755,0.7,Very Good,3,G,SI2,2
+1756,2.41,Premium,4,H,SI2,2
+1757,0.61,Good,2,H,VVS2,6
+1758,1,Ideal,5,D,SI1,3
+1759,0.71,Ideal,5,D,VS2,5
+1760,1.13,Very Good,3,F,SI1,3
+1761,0.41,Ideal,5,E,VS2,5
+1762,0.76,Very Good,3,H,SI1,3
+1763,0.97,Ideal,5,I,I1,1
+1764,0.62,Premium,4,G,I1,1
+1765,0.9,Good,2,F,SI1,3
+1766,0.79,Very Good,3,E,VS2,5
+1767,0.3,Ideal,5,E,SI1,3
+1768,0.31,Ideal,5,G,VVS1,7
+1769,0.32,Ideal,5,D,VS2,5
+1770,1.04,Good,2,D,SI1,3
+1771,1.21,Ideal,5,G,VVS1,7
+1772,1.02,Fair,1,G,SI1,3
+1773,0.35,Ideal,5,E,VS2,5
+1774,0.32,Ideal,5,D,SI1,3
+1775,1.02,Premium,4,F,VS1,4
+1776,0.36,Premium,4,E,SI2,2
+1777,0.38,Premium,4,G,VS1,4
+1778,1.05,Premium,4,H,SI1,3
+1779,0.41,Good,2,E,SI2,2
+1780,1.05,Very Good,3,D,VS2,5
+1781,1.52,Premium,4,H,SI1,3
+1782,0.9,Ideal,5,H,SI1,3
+1783,1.15,Premium,4,H,SI2,2
+1784,0.94,Ideal,5,D,SI1,3
+1785,0.7,Premium,4,G,VS1,4
+1786,0.5,Ideal,5,D,VVS2,6
+1787,0.64,Ideal,5,G,VVS2,6
+1788,0.55,Ideal,5,I,VS2,5
+1789,0.38,Ideal,5,F,VS2,5
+1790,0.53,Ideal,5,D,VS2,5
+1791,1.68,Good,2,E,I1,1
+1792,1.22,Premium,4,H,SI1,3
+1793,2,Fair,1,H,SI2,2
+1794,1.01,Premium,4,F,SI2,2
+1795,0.9,Ideal,5,H,SI2,2
+1796,0.26,Ideal,5,H,VS1,4
+1797,1.01,Ideal,5,E,SI2,2
+1798,0.92,Very Good,3,F,SI1,3
+1799,1.5,Premium,4,E,SI2,2
+1800,1.34,Very Good,3,H,VS2,5
+1801,0.31,Ideal,5,D,VS2,5
+1802,0.61,Good,2,F,VS1,4
+1803,0.4,Good,2,F,SI1,3
+1804,0.3,Ideal,5,H,VS2,5
+1805,0.95,Ideal,5,E,SI2,2
+1806,0.32,Ideal,5,G,VS1,4
+1807,1.66,Good,2,J,VS2,5
+1808,1.22,Premium,4,D,VS2,5
+1809,2.53,Premium,4,H,SI2,2
+1810,0.3,Ideal,5,H,VS1,4
+1811,0.25,Very Good,3,H,VVS2,6
+1812,0.73,Ideal,5,G,VS1,4
+1813,0.3,Very Good,3,I,IF,8
+1814,1.31,Premium,4,I,SI2,2
+1815,1.01,Very Good,3,F,VS2,5
+1816,0.41,Very Good,3,D,VS2,5
+1817,0.37,Premium,4,G,SI1,3
+1818,0.3,Very Good,3,F,VVS1,7
+1819,0.51,Premium,4,E,VS2,5
+1820,2.56,Good,2,J,SI2,2
+1821,0.38,Premium,4,H,SI1,3
+1822,0.38,Very Good,3,G,VS1,4
+1823,0.58,Ideal,5,G,VS2,5
+1824,0.74,Ideal,5,G,SI2,2
+1825,0.31,Ideal,5,I,SI1,3
+1826,1,Good,2,G,VS2,5
+1827,0.31,Very Good,3,H,VS2,5
+1828,0.61,Premium,4,F,VVS2,6
+1829,0.81,Ideal,5,F,VS2,5
+1830,0.58,Ideal,5,F,SI1,3
+1831,0.38,Very Good,3,F,VS2,5
+1832,0.54,Ideal,5,E,SI1,3
+1833,0.57,Very Good,3,E,VS2,5
+1834,1.01,Premium,4,G,SI1,3
+1835,0.57,Fair,1,F,VS1,4
+1836,0.73,Premium,4,E,SI1,3
+1837,1.18,Ideal,5,E,SI2,2
+1838,0.31,Ideal,5,F,IF,8
+1839,0.3,Ideal,5,H,VS1,4
+1840,0.34,Ideal,5,E,VS2,5
+1841,0.7,Very Good,3,G,SI2,2
+1842,0.3,Ideal,5,G,VS1,4
+1843,0.58,Ideal,5,E,VVS2,6
+1844,1.24,Ideal,5,E,VS2,5
+1845,1.23,Very Good,3,F,VS1,4
+1846,0.57,Ideal,5,E,SI1,3
+1847,0.32,Ideal,5,E,VVS1,7
+1848,0.9,Ideal,5,G,VVS1,7
+1849,0.39,Ideal,5,E,VVS2,6
+1850,0.8,Ideal,5,H,SI1,3
+1851,1.14,Ideal,5,G,VS1,4
+1852,0.72,Very Good,3,G,VS1,4
+1853,0.31,Ideal,5,E,VS2,5
+1854,0.54,Ideal,5,D,SI1,3
+1855,0.32,Ideal,5,I,VS2,5
+1856,0.32,Ideal,5,D,VS2,5
+1857,0.27,Ideal,5,E,VS2,5
+1858,1.06,Ideal,5,F,I1,1
+1859,1.01,Premium,4,F,VS2,5
+1860,1.04,Premium,4,G,SI2,2
+1861,0.25,Premium,4,E,VVS2,6
+1862,0.3,Ideal,5,H,VS2,5
+1863,0.51,Premium,4,G,SI2,2
+1864,0.73,Ideal,5,I,VS1,4
+1865,0.44,Ideal,5,I,VS1,4
+1866,0.33,Very Good,3,I,SI1,3
+1867,0.7,Very Good,3,E,SI1,3
+1868,1,Good,2,H,VVS2,6
+1869,0.3,Ideal,5,G,VVS1,7
+1870,0.76,Premium,4,E,SI2,2
+1871,0.79,Ideal,5,F,SI1,3
+1872,0.76,Ideal,5,F,VS2,5
+1873,0.51,Ideal,5,F,VS1,4
+1874,0.53,Ideal,5,D,VS2,5
+1875,0.56,Fair,1,E,VVS2,6
+1876,0.31,Ideal,5,F,VVS1,7
+1877,0.41,Premium,4,E,VS1,4
+1878,0.54,Ideal,5,F,VS2,5
+1879,1,Very Good,3,G,SI1,3
+1880,1.01,Very Good,3,H,SI1,3
+1881,1.65,Ideal,5,G,VS1,4
+1882,0.24,Ideal,5,F,IF,8
+1883,0.33,Ideal,5,E,SI1,3
+1884,0.78,Ideal,5,F,VS2,5
+1885,1.01,Very Good,3,G,VS2,5
+1886,0.74,Very Good,3,E,SI2,2
+1887,0.51,Premium,4,D,VS1,4
+1888,2.01,Good,2,I,SI1,3
+1889,0.34,Ideal,5,G,SI1,3
+1890,1.23,Ideal,5,I,SI1,3
+1891,0.39,Ideal,5,F,VVS2,6
+1892,1.5,Very Good,3,H,VS1,4
+1893,0.31,Ideal,5,E,VVS1,7
+1894,0.34,Ideal,5,D,VS2,5
+1895,0.34,Ideal,5,G,IF,8
+1896,0.33,Ideal,5,G,VS1,4
+1897,0.3,Ideal,5,H,SI1,3
+1898,0.28,Ideal,5,D,VS2,5
+1899,0.35,Very Good,3,D,VS1,4
+1900,0.3,Ideal,5,F,IF,8
+1901,1.4,Ideal,5,J,SI1,3
+1902,0.35,Premium,4,E,SI1,3
+1903,0.42,Premium,4,G,SI1,3
+1904,1.75,Ideal,5,I,SI1,3
+1905,0.42,Ideal,5,E,SI2,2
+1906,1.26,Ideal,5,G,VS1,4
+1907,1.25,Ideal,5,J,VS1,4
+1908,1.01,Premium,4,E,SI1,3
+1909,0.23,Good,2,E,VVS1,7
+1910,1.15,Ideal,5,J,VS1,4
+1911,1.02,Premium,4,I,SI2,2
+1912,0.39,Ideal,5,H,IF,8
+1913,0.37,Premium,4,I,VVS1,7
+1914,0.9,Good,2,H,SI1,3
+1915,0.27,Very Good,3,G,VVS1,7
+1916,0.53,Premium,4,F,I1,1
+1917,0.57,Premium,4,G,VS1,4
+1918,0.76,Premium,4,H,SI1,3
+1919,1.02,Ideal,5,J,SI2,2
+1920,0.58,Premium,4,E,VS2,5
+1921,0.7,Good,2,D,SI2,2
+1922,0.32,Good,2,D,SI1,3
+1923,0.72,Very Good,3,E,VS2,5
+1924,0.73,Premium,4,E,VS2,5
+1925,1.02,Very Good,3,G,VS2,5
+1926,0.4,Very Good,3,D,VS2,5
+1927,0.31,Ideal,5,H,VS1,4
+1928,1.04,Ideal,5,G,VS2,5
+1929,0.71,Very Good,3,F,VS2,5
+1930,0.34,Premium,4,I,VVS1,7
+1931,0.3,Very Good,3,G,VVS1,7
+1932,0.71,Premium,4,D,VS2,5
+1933,2.28,Premium,4,H,SI2,2
+1934,0.72,Very Good,3,E,SI1,3
+1935,0.91,Good,2,E,VS2,5
+1936,0.5,Very Good,3,E,VS1,4
+1937,0.91,Premium,4,F,SI2,2
+1938,0.3,Ideal,5,E,VS2,5
+1939,0.41,Premium,4,E,SI2,2
+1940,0.71,Premium,4,I,VVS1,7
+1941,0.92,Good,2,E,SI1,3
+1942,0.3,Ideal,5,D,VS2,5
+1943,0.7,Premium,4,H,SI1,3
+1944,2.36,Premium,4,H,SI2,2
+1945,0.35,Ideal,5,I,IF,8
+1946,0.7,Ideal,5,E,VS1,4
+1947,0.81,Ideal,5,J,VS2,5
+1948,0.53,Ideal,5,G,SI2,2
+1949,1.07,Ideal,5,G,SI1,3
+1950,1.51,Very Good,3,J,VS1,4
+1951,0.31,Ideal,5,F,VS2,5
+1952,1.61,Premium,4,H,SI1,3
+1953,0.3,Good,2,G,VVS2,6
+1954,0.39,Ideal,5,D,VVS2,6
+1955,0.43,Ideal,5,E,VVS2,6
+1956,1.04,Premium,4,I,SI1,3
+1957,0.35,Ideal,5,E,VS2,5
+1958,1.02,Very Good,3,F,SI1,3
+1959,0.92,Ideal,5,G,VS2,5
+1960,0.9,Very Good,3,F,VS1,4
+1961,0.59,Very Good,3,D,SI1,3
+1962,1.09,Ideal,5,H,SI1,3
+1963,0.5,Ideal,5,E,VS2,5
+1964,0.81,Premium,4,H,SI2,2
+1965,0.54,Good,2,H,VS1,4
+1966,0.52,Ideal,5,D,VS2,5
+1967,0.92,Premium,4,F,SI2,2
+1968,2.12,Very Good,3,H,SI2,2
+1969,2.01,Good,2,I,SI2,2
+1970,1.2,Very Good,3,F,VVS2,6
+1971,1.18,Premium,4,G,SI2,2
+1972,0.61,Ideal,5,F,VS1,4
+1973,1.06,Very Good,3,F,VS2,5
+1974,0.42,Premium,4,H,VVS1,7
+1975,0.51,Premium,4,D,VS2,5
+1976,0.3,Ideal,5,E,VVS1,7
+1977,0.31,Ideal,5,E,VS2,5
+1978,1.11,Very Good,3,H,SI1,3
+1979,0.31,Premium,4,H,VVS2,6
+1980,0.72,Ideal,5,G,VS2,5
+1981,0.76,Very Good,3,I,SI1,3
+1982,0.35,Premium,4,F,VS2,5
+1983,0.8,Good,2,G,VS2,5
+1984,1.02,Premium,4,D,SI2,2
+1985,0.7,Ideal,5,F,SI1,3
+1986,1.13,Ideal,5,G,VS2,5
+1987,1.01,Fair,1,E,SI2,2
+1988,0.57,Very Good,3,D,SI1,3
+1989,2.01,Good,2,G,SI2,2
+1990,0.52,Ideal,5,G,SI2,2
+1991,1.51,Good,2,I,SI1,3
+1992,1.64,Ideal,5,G,VVS2,6
+1993,0.8,Fair,1,G,SI2,2
+1994,0.3,Good,2,D,VS2,5
+1995,0.43,Ideal,5,G,IF,8
+1996,0.32,Ideal,5,G,VS2,5
+1997,0.31,Ideal,5,E,VS1,4
+1998,2.16,Ideal,5,I,SI2,2
+1999,0.6,Ideal,5,G,VS2,5
+2000,1.25,Very Good,3,I,SI1,3
+2001,1.71,Premium,4,G,SI1,3
+2002,0.42,Ideal,5,F,VVS2,6
+2003,0.31,Good,2,F,SI1,3
+2004,0.9,Good,2,D,SI1,3
+2005,0.31,Good,2,F,VVS2,6
+2006,0.55,Very Good,3,E,VS2,5
+2007,1.32,Very Good,3,G,SI2,2
+2008,0.79,Ideal,5,F,SI2,2
+2009,0.4,Ideal,5,F,VS2,5
+2010,0.31,Ideal,5,G,VVS1,7
+2011,0.7,Very Good,3,F,SI1,3
+2012,0.9,Good,2,D,VS2,5
+2013,0.36,Premium,4,E,VS2,5
+2014,0.51,Very Good,3,E,VS2,5
+2015,0.34,Ideal,5,G,SI1,3
+2016,0.31,Very Good,3,G,SI1,3
+2017,0.41,Premium,4,F,VS2,5
+2018,1.73,Premium,4,H,SI1,3
+2019,0.31,Ideal,5,F,IF,8
+2020,0.28,Ideal,5,E,VVS2,6
+2021,0.32,Very Good,3,D,SI1,3
+2022,0.51,Very Good,3,G,VS2,5
+2023,1.21,Ideal,5,F,SI2,2
+2024,0.71,Very Good,3,D,VS2,5
+2025,0.9,Very Good,3,E,SI1,3
+2026,0.92,Premium,4,J,VS2,5
+2027,0.41,Ideal,5,E,VS2,5
+2028,1.11,Premium,4,G,SI2,2
+2029,0.58,Premium,4,E,VS2,5
+2030,0.25,Very Good,3,G,VS2,5
+2031,1,Good,2,E,SI2,2
+2032,1.01,Very Good,3,G,VS1,4
+2033,0.37,Very Good,3,D,VVS1,7
+2034,1.15,Ideal,5,G,VVS1,7
+2035,1.2,Ideal,5,G,VS1,4
+2036,1.5,Good,2,H,VS1,4
+2037,1.5,Ideal,5,H,VS1,4
+2038,0.84,Good,2,G,SI1,3
+2039,0.51,Premium,4,F,VVS2,6
+2040,1.54,Ideal,5,G,SI2,2
+2041,0.35,Good,2,E,VS1,4
+2042,1.01,Premium,4,G,VS2,5
+2043,1.11,Very Good,3,F,VVS1,7
+2044,1.16,Premium,4,G,VVS1,7
+2045,1.01,Fair,1,G,SI1,3
+2046,1.26,Ideal,5,J,SI1,3
+2047,1.03,Ideal,5,G,VVS1,7
+2048,0.53,Ideal,5,E,VS2,5
+2049,0.3,Ideal,5,D,VS1,4
+2050,1.06,Premium,4,G,SI2,2
+2051,1.22,Premium,4,H,VS1,4
+2052,0.39,Very Good,3,E,VS1,4
+2053,0.7,Very Good,3,F,VS2,5
+2054,1.5,Premium,4,E,SI1,3
+2055,0.72,Very Good,3,E,SI1,3
+2056,1.03,Ideal,5,G,SI1,3
+2057,0.31,Good,2,G,SI1,3
+2058,2.51,Very Good,3,I,SI2,2
+2059,2.63,Ideal,5,J,SI2,2
+2060,1.27,Ideal,5,G,VS2,5
+2061,0.81,Premium,4,D,SI1,3
+2062,0.9,Ideal,5,G,SI1,3
+2063,0.33,Ideal,5,E,VS2,5
+2064,1.61,Ideal,5,G,VS1,4
+2065,0.36,Ideal,5,F,VS2,5
+2066,1.3,Premium,4,D,SI1,3
+2067,0.9,Fair,1,H,VS2,5
+2068,1,Good,2,D,SI1,3
+2069,1.52,Very Good,3,D,SI2,2
+2070,0.55,Very Good,3,D,VS2,5
+2071,1,Very Good,3,I,VS1,4
+2072,0.34,Premium,4,I,VVS1,7
+2073,0.53,Very Good,3,F,VS2,5
+2074,0.7,Premium,4,F,SI1,3
+2075,1.18,Premium,4,I,VS1,4
+2076,0.42,Ideal,5,G,SI1,3
+2077,2.26,Ideal,5,I,SI2,2
+2078,0.42,Very Good,3,H,VS2,5
+2079,0.73,Ideal,5,I,VS1,4
+2080,0.31,Ideal,5,E,VS2,5
+2081,0.74,Ideal,5,F,VS1,4
+2082,1.31,Premium,4,J,SI1,3
+2083,1.01,Good,2,E,VS2,5
+2084,0.4,Premium,4,F,SI1,3
+2085,0.4,Very Good,3,E,VS2,5
+2086,1.52,Very Good,3,F,VS2,5
+2087,0.32,Premium,4,G,SI1,3
+2088,0.3,Ideal,5,E,SI1,3
+2089,0.61,Ideal,5,E,VS1,4
+2090,2,Very Good,3,J,SI1,3
+2091,0.51,Ideal,5,D,VS1,4
+2092,0.7,Ideal,5,F,SI1,3
+2093,0.91,Very Good,3,D,SI2,2
+2094,0.71,Very Good,3,G,VVS2,6
+2095,0.42,Ideal,5,D,VS2,5
+2096,1.56,Very Good,3,H,SI2,2
+2097,0.33,Ideal,5,E,VS2,5
+2098,0.54,Ideal,5,F,VS1,4
+2099,0.36,Ideal,5,E,SI1,3
+2100,1.21,Premium,4,H,VS1,4
+2101,0.27,Very Good,3,D,VS2,5
+2102,2.07,Premium,4,H,SI1,3
+2103,0.3,Very Good,3,I,VS2,5
+2104,0.31,Very Good,3,G,VVS1,7
+2105,1.51,Premium,4,E,SI1,3
+2106,0.41,Premium,4,D,SI2,2
+2107,0.43,Ideal,5,F,SI1,3
+2108,2.02,Premium,4,F,SI2,2
+2109,0.71,Very Good,3,I,VS1,4
+2110,0.25,Ideal,5,I,VS2,5
+2111,0.3,Ideal,5,G,VVS1,7
+2112,0.48,Premium,4,F,VS2,5
+2113,0.73,Ideal,5,G,VS2,5
+2114,0.35,Ideal,5,H,VVS1,7
+2115,0.73,Premium,4,E,SI2,2
+2116,0.72,Ideal,5,H,VVS2,6
+2117,0.6,Very Good,3,E,SI2,2
+2118,1.5,Very Good,3,E,SI2,2
+2119,0.31,Ideal,5,G,VVS1,7
+2120,1,Good,2,F,SI1,3
+2121,0.78,Good,2,F,VS1,4
+2122,1.76,Ideal,5,I,VS1,4
+2123,0.9,Premium,4,E,SI1,3
+2124,1,Good,2,D,VS2,5
+2125,0.7,Premium,4,G,SI1,3
+2126,0.41,Premium,4,G,VVS2,6
+2127,0.52,Ideal,5,D,VS1,4
+2128,0.64,Premium,4,D,SI2,2
+2129,0.91,Premium,4,E,SI1,3
+2130,0.51,Ideal,5,D,VS2,5
+2131,0.3,Good,2,E,VVS2,6
+2132,0.47,Good,2,F,VS1,4
+2133,0.71,Ideal,5,F,VVS1,7
+2134,0.31,Ideal,5,F,VVS2,6
+2135,0.3,Ideal,5,H,VVS2,6
+2136,1,Premium,4,H,SI1,3
+2137,0.33,Ideal,5,E,VS2,5
+2138,1.04,Premium,4,F,SI2,2
+2139,0.71,Very Good,3,E,VS2,5
+2140,1.05,Very Good,3,E,SI2,2
+2141,0.42,Ideal,5,H,VVS1,7
+2142,0.33,Very Good,3,H,IF,8
+2143,0.32,Premium,4,I,VS2,5
+2144,1.01,Good,2,I,SI2,2
+2145,0.5,Ideal,5,G,VVS1,7
+2146,0.3,Premium,4,E,VS1,4
+2147,0.53,Ideal,5,D,VS2,5
+2148,1.04,Ideal,5,F,SI1,3
+2149,0.7,Ideal,5,E,VS1,4
+2150,0.36,Premium,4,D,VS2,5
+2151,0.27,Ideal,5,E,VS2,5
+2152,0.39,Ideal,5,E,VS2,5
+2153,0.68,Ideal,5,E,VS1,4
+2154,0.7,Ideal,5,F,VS2,5
+2155,0.31,Ideal,5,F,IF,8
+2156,0.4,Ideal,5,F,VS1,4
+2157,0.43,Ideal,5,F,SI1,3
+2158,0.24,Very Good,3,F,VVS1,7
+2159,1,Premium,4,E,SI1,3
+2160,1.61,Premium,4,J,SI2,2
+2161,0.3,Very Good,3,J,VS1,4
+2162,1,Ideal,5,D,SI1,3
+2163,0.71,Premium,4,E,SI2,2
+2164,1.01,Ideal,5,H,SI1,3
+2165,1,Very Good,3,F,SI2,2
+2166,0.46,Very Good,3,D,VS2,5
+2167,0.92,Good,2,H,VS1,4
+2168,1.61,Premium,4,I,SI1,3
+2169,0.31,Very Good,3,I,VVS2,6
+2170,0.31,Ideal,5,D,VVS2,6
+2171,0.77,Ideal,5,H,VS2,5
+2172,1.2,Very Good,3,J,SI1,3
+2173,0.78,Ideal,5,G,SI1,3
+2174,0.4,Ideal,5,E,SI2,2
+2175,0.56,Ideal,5,G,VS1,4
+2176,0.31,Premium,4,H,IF,8
+2177,0.41,Ideal,5,H,VVS1,7
+2178,0.32,Premium,4,I,SI1,3
+2179,0.38,Ideal,5,E,VS1,4
+2180,0.3,Ideal,5,E,VS2,5
+2181,1.25,Ideal,5,I,VS2,5
+2182,1.79,Premium,4,I,VS1,4
+2183,0.43,Ideal,5,D,VS2,5
+2184,0.35,Ideal,5,E,VS2,5
+2185,0.31,Premium,4,E,IF,8
+2186,0.71,Premium,4,F,SI1,3
+2187,0.51,Fair,1,G,SI1,3
+2188,0.32,Ideal,5,D,VS2,5
+2189,0.53,Ideal,5,D,SI2,2
+2190,1,Very Good,3,E,SI2,2
+2191,0.7,Ideal,5,E,SI1,3
+2192,1.7,Very Good,3,H,SI2,2
+2193,1.17,Ideal,5,G,VS2,5
+2194,0.8,Very Good,3,H,VS2,5
+2195,0.38,Premium,4,F,SI1,3
+2196,0.3,Ideal,5,G,SI2,2
+2197,0.55,Ideal,5,E,SI1,3
+2198,0.7,Fair,1,H,VS1,4
+2199,0.31,Ideal,5,D,VS2,5
+2200,2.01,Very Good,3,H,I1,1
+2201,0.63,Ideal,5,J,SI2,2
+2202,0.7,Fair,1,F,VS1,4
+2203,1.59,Ideal,5,H,VS2,5
+2204,0.38,Ideal,5,F,SI1,3
+2205,0.5,Ideal,5,G,VVS2,6
+2206,1,Good,2,H,VS1,4
+2207,0.52,Ideal,5,D,SI1,3
+2208,0.31,Ideal,5,E,VS2,5
+2209,0.41,Premium,4,G,VS2,5
+2210,1.21,Premium,4,E,SI2,2
+2211,0.64,Premium,4,F,VS2,5
+2212,0.7,Very Good,3,F,VS2,5
+2213,0.31,Good,2,H,VS2,5
+2214,0.82,Ideal,5,H,VVS1,7
+2215,1.06,Ideal,5,E,SI2,2
+2216,0.54,Very Good,3,E,SI1,3
+2217,1.52,Very Good,3,F,SI2,2
+2218,1.5,Very Good,3,J,VVS2,6
+2219,0.59,Very Good,3,D,VS1,4
+2220,1.17,Very Good,3,H,SI1,3
+2221,0.8,Ideal,5,D,SI1,3
+2222,1.03,Premium,4,H,SI2,2
+2223,0.51,Ideal,5,G,VVS1,7
+2224,0.73,Ideal,5,G,SI2,2
+2225,0.51,Ideal,5,E,SI1,3
+2226,0.31,Premium,4,G,VS2,5
+2227,0.38,Very Good,3,I,VS1,4
+2228,1.52,Good,2,J,VS2,5
+2229,1.24,Premium,4,G,IF,8
+2230,1.02,Ideal,5,H,SI1,3
+2231,0.3,Ideal,5,I,VVS2,6
+2232,0.39,Premium,4,E,VS2,5
+2233,0.76,Good,2,D,VS2,5
+2234,0.52,Premium,4,F,VS2,5
+2235,1.02,Premium,4,E,VS2,5
+2236,0.4,Ideal,5,G,VS2,5
+2237,0.52,Ideal,5,D,VVS2,6
+2238,0.52,Very Good,3,D,VS2,5
+2239,0.63,Premium,4,F,SI1,3
+2240,0.32,Premium,4,E,VVS2,6
+2241,0.4,Premium,4,D,VVS2,6
+2242,0.74,Ideal,5,E,SI2,2
+2243,1.07,Ideal,5,H,SI2,2
+2244,3.01,Good,2,I,SI2,2
+2245,0.31,Premium,4,G,VVS2,6
+2246,0.54,Ideal,5,J,VVS1,7
+2247,0.7,Very Good,3,G,SI1,3
+2248,2.48,Premium,4,I,SI1,3
+2249,0.3,Ideal,5,H,VS2,5
+2250,0.9,Good,2,I,SI2,2
+2251,0.33,Premium,4,G,VVS1,7
+2252,1.3,Premium,4,G,VS2,5
+2253,1.14,Good,2,G,SI2,2
+2254,0.62,Ideal,5,H,VVS1,7
+2255,0.31,Premium,4,E,VS1,4
+2256,0.3,Ideal,5,G,IF,8
+2257,1.02,Ideal,5,E,SI1,3
+2258,0.53,Ideal,5,G,VS2,5
+2259,1.08,Premium,4,G,SI2,2
+2260,1.01,Premium,4,F,SI2,2
+2261,1.13,Fair,1,H,SI2,2
+2262,1.7,Ideal,5,F,VS2,5
+2263,0.42,Ideal,5,F,VS1,4
+2264,1.08,Ideal,5,E,VS1,4
+2265,0.77,Premium,4,J,VS2,5
+2266,1.11,Ideal,5,G,VS2,5
+2267,1.12,Ideal,5,E,SI2,2
+2268,1.2,Premium,4,H,VS1,4
+2269,1.02,Very Good,3,F,VS1,4
+2270,0.33,Ideal,5,G,VVS2,6
+2271,0.31,Very Good,3,G,VVS1,7
+2272,1.25,Premium,4,J,SI1,3
+2273,1.25,Premium,4,H,VS2,5
+2274,0.3,Ideal,5,E,VVS2,6
+2275,1.11,Ideal,5,G,VS2,5
+2276,0.61,Ideal,5,F,VS2,5
+2277,1.26,Very Good,3,G,SI1,3
+2278,0.32,Ideal,5,D,SI1,3
+2279,1.5,Premium,4,I,VS1,4
+2280,0.39,Ideal,5,F,SI1,3
+2281,1.73,Premium,4,H,SI2,2
+2282,1,Ideal,5,I,SI2,2
+2283,2.39,Very Good,3,J,VS1,4
+2284,1.52,Premium,4,H,SI1,3
+2285,0.33,Ideal,5,D,SI2,2
+2286,0.31,Ideal,5,I,VVS1,7
+2287,1.2,Very Good,3,F,SI1,3
+2288,0.36,Ideal,5,D,VVS2,6
+2289,0.31,Ideal,5,I,VS2,5
+2290,0.37,Ideal,5,E,VS2,5
+2291,2.59,Ideal,5,J,VS1,4
+2292,0.56,Ideal,5,E,VS2,5
+2293,1.01,Premium,4,F,SI1,3
+2294,0.71,Ideal,5,F,SI1,3
+2295,0.4,Very Good,3,G,SI2,2
+2296,1.02,Ideal,5,E,SI1,3
+2297,0.38,Very Good,3,H,SI2,2
+2298,1.01,Premium,4,G,SI2,2
+2299,0.84,Ideal,5,J,VS2,5
+2300,0.83,Premium,4,J,SI1,3
+2301,0.31,Premium,4,I,VVS2,6
+2302,2.01,Premium,4,J,SI2,2
+2303,0.43,Ideal,5,F,VVS1,7
+2304,0.34,Ideal,5,F,VS2,5
+2305,0.33,Ideal,5,E,VS1,4
+2306,1,Very Good,3,D,SI2,2
+2307,0.28,Ideal,5,G,SI1,3
+2308,0.4,Ideal,5,G,VVS2,6
+2309,1.08,Ideal,5,H,SI1,3
+2310,1.19,Fair,1,I,SI1,3
+2311,1.51,Very Good,3,F,VS1,4
+2312,0.91,Very Good,3,E,SI2,2
+2313,0.43,Premium,4,G,VS2,5
+2314,1.01,Ideal,5,E,VS2,5
+2315,0.53,Ideal,5,F,VS2,5
+2316,0.33,Very Good,3,D,VVS1,7
+2317,1.11,Premium,4,F,SI2,2
+2318,1.02,Premium,4,F,VS1,4
+2319,1.01,Premium,4,F,SI1,3
+2320,0.9,Premium,4,H,SI1,3
+2321,1.03,Ideal,5,D,VVS2,6
+2322,0.42,Ideal,5,D,VVS2,6
+2323,0.51,Ideal,5,G,VS1,4
+2324,0.71,Ideal,5,E,VVS2,6
+2325,1.6,Ideal,5,J,VS2,5
+2326,0.64,Very Good,3,D,VS2,5
+2327,1.07,Premium,4,F,SI1,3
+2328,0.63,Ideal,5,J,SI1,3
+2329,0.43,Premium,4,F,VS2,5
+2330,0.34,Premium,4,G,VS2,5
+2331,0.3,Good,2,G,VS1,4
+2332,1,Very Good,3,F,SI1,3
+2333,1.01,Very Good,3,E,VS2,5
+2334,1.23,Good,2,J,SI1,3
+2335,1.02,Premium,4,H,SI1,3
+2336,2.01,Fair,1,E,SI2,2
+2337,0.82,Ideal,5,F,SI2,2
+2338,0.32,Ideal,5,F,VS2,5
+2339,0.71,Premium,4,F,SI1,3
+2340,0.4,Very Good,3,E,SI2,2
+2341,0.4,Very Good,3,J,IF,8
+2342,0.51,Ideal,5,I,VS2,5
+2343,0.32,Good,2,D,VS2,5
+2344,0.42,Ideal,5,G,VVS2,6
+2345,0.32,Very Good,3,I,VS1,4
+2346,1.66,Premium,4,J,VVS2,6
+2347,1.56,Very Good,3,I,SI1,3
+2348,1.5,Very Good,3,J,I1,1
+2349,0.31,Ideal,5,E,IF,8
+2350,0.7,Good,2,E,VS2,5
+2351,0.7,Ideal,5,F,SI1,3
+2352,0.72,Ideal,5,H,SI2,2
+2353,0.52,Ideal,5,D,SI2,2
+2354,0.41,Very Good,3,F,VVS1,7
+2355,0.9,Very Good,3,H,VS1,4
+2356,2.06,Ideal,5,I,VS2,5
+2357,0.72,Ideal,5,I,VS1,4
+2358,0.38,Premium,4,E,VS2,5
+2359,0.51,Ideal,5,E,VS2,5
+2360,0.31,Premium,4,G,VVS1,7
+2361,0.71,Very Good,3,J,SI1,3
+2362,2.22,Ideal,5,I,VS2,5
+2363,1.24,Ideal,5,D,VVS2,6
+2364,1.02,Premium,4,F,VS2,5
+2365,0.78,Ideal,5,H,VVS2,6
+2366,0.34,Good,2,E,SI1,3
+2367,1.25,Premium,4,H,SI2,2
+2368,0.71,Ideal,5,G,VS1,4
+2369,0.7,Premium,4,E,SI1,3
+2370,0.3,Premium,4,J,VS2,5
+2371,1.03,Ideal,5,D,SI1,3
+2372,0.53,Ideal,5,E,VS2,5
+2373,0.4,Premium,4,F,VVS2,6
+2374,0.57,Premium,4,D,VS1,4
+2375,1.01,Fair,1,E,SI1,3
+2376,0.71,Good,2,D,VS1,4
+2377,1.21,Ideal,5,G,VS1,4
+2378,1.54,Premium,4,I,SI2,2
+2379,0.32,Premium,4,I,VS1,4
+2380,0.93,Premium,4,G,VS2,5
+2381,0.71,Premium,4,D,VS2,5
+2382,2.33,Ideal,5,I,VS2,5
+2383,0.52,Premium,4,G,SI1,3
+2384,2.01,Premium,4,J,SI2,2
+2385,0.53,Ideal,5,E,VS2,5
+2386,0.57,Premium,4,G,VS2,5
+2387,0.58,Good,2,G,SI1,3
+2388,0.31,Premium,4,E,VS2,5
+2389,0.31,Good,2,H,VVS1,7
+2390,0.34,Ideal,5,E,VS2,5
+2391,1.01,Good,2,E,SI2,2
+2392,1.08,Ideal,5,G,VS1,4
+2393,0.33,Ideal,5,I,VS1,4
+2394,1.11,Very Good,3,E,VS1,4
+2395,0.3,Ideal,5,E,VS2,5
+2396,1.01,Very Good,3,I,VS1,4
+2397,1.73,Good,2,E,I1,1
+2398,1.5,Premium,4,H,SI2,2
+2399,1.02,Premium,4,G,VVS1,7
+2400,0.34,Ideal,5,G,IF,8
+2401,1.04,Good,2,F,SI2,2
+2402,0.5,Ideal,5,E,VS2,5
+2403,0.41,Ideal,5,J,VS2,5
+2404,1.02,Premium,4,J,SI1,3
+2405,0.5,Premium,4,G,VS1,4
+2406,0.66,Ideal,5,G,SI1,3
+2407,0.42,Premium,4,F,VVS1,7
+2408,0.3,Very Good,3,H,VS2,5
+2409,1.01,Very Good,3,D,SI2,2
+2410,0.7,Fair,1,G,SI2,2
+2411,0.45,Good,2,G,VVS1,7
+2412,1.01,Ideal,5,E,VS1,4
+2413,0.74,Fair,1,G,SI1,3
+2414,1.45,Fair,1,J,SI2,2
+2415,0.3,Ideal,5,I,SI1,3
+2416,1.62,Ideal,5,G,VS2,5
+2417,0.9,Good,2,E,SI2,2
+2418,0.31,Premium,4,E,VS2,5
+2419,1.03,Premium,4,H,I1,1
+2420,0.3,Premium,4,E,VS2,5
+2421,0.25,Very Good,3,D,VVS2,6
+2422,0.31,Premium,4,E,VS1,4
+2423,1,Premium,4,H,SI2,2
+2424,0.9,Very Good,3,D,SI2,2
+2425,1,Very Good,3,H,SI1,3
+2426,0.5,Very Good,3,H,SI1,3
+2427,1.91,Ideal,5,G,SI2,2
+2428,0.5,Premium,4,F,VS1,4
+2429,1.03,Ideal,5,F,SI2,2
+2430,1.1,Very Good,3,I,VS1,4
+2431,1.51,Ideal,5,H,SI2,2
+2432,0.67,Ideal,5,F,SI2,2
+2433,1.35,Fair,1,J,SI1,3
+2434,1.02,Very Good,3,F,VVS2,6
+2435,0.31,Very Good,3,G,VVS1,7
+2436,0.79,Very Good,3,J,VS2,5
+2437,0.3,Ideal,5,G,VVS2,6
+2438,0.52,Very Good,3,G,VS1,4
+2439,0.33,Very Good,3,I,VS2,5
+2440,1.2,Ideal,5,F,VS2,5
+2441,0.78,Premium,4,F,SI2,2
+2442,0.41,Ideal,5,F,VVS2,6
+2443,0.4,Premium,4,D,SI1,3
+2444,0.42,Ideal,5,G,VS2,5
+2445,0.52,Very Good,3,G,VVS2,6
+2446,0.76,Ideal,5,G,SI2,2
+2447,1.11,Premium,4,D,SI2,2
+2448,1.04,Ideal,5,G,VVS1,7
+2449,0.41,Very Good,3,G,VVS2,6
+2450,0.33,Ideal,5,H,VVS2,6
+2451,0.3,Ideal,5,I,SI1,3
+2452,0.32,Premium,4,G,VS2,5
+2453,0.34,Good,2,H,SI1,3
+2454,0.56,Premium,4,I,VVS1,7
+2455,0.7,Premium,4,F,SI2,2
+2456,0.33,Premium,4,G,IF,8
+2457,0.26,Premium,4,H,VVS1,7
+2458,1,Good,2,E,SI2,2
+2459,0.35,Ideal,5,E,VVS1,7
+2460,1.01,Premium,4,D,SI1,3
+2461,2.04,Premium,4,H,SI1,3
+2462,0.55,Ideal,5,H,SI2,2
+2463,0.26,Very Good,3,F,VS1,4
+2464,0.41,Very Good,3,G,VS1,4
+2465,0.41,Ideal,5,E,VVS2,6
+2466,0.32,Ideal,5,I,VS1,4
+2467,0.36,Ideal,5,D,VS2,5
+2468,0.73,Very Good,3,E,SI2,2
+2469,0.33,Premium,4,H,IF,8
+2470,0.72,Very Good,3,E,VVS2,6
+2471,0.4,Good,2,D,SI1,3
+2472,1.28,Ideal,5,H,VVS1,7
+2473,0.38,Ideal,5,G,VVS1,7
+2474,1.24,Ideal,5,H,VS2,5
+2475,1.5,Good,2,G,SI2,2
+2476,1.5,Good,2,J,SI1,3
+2477,2.01,Ideal,5,H,SI1,3
+2478,1.1,Ideal,5,G,VS1,4
+2479,0.5,Good,2,G,VS2,5
+2480,1.5,Premium,4,E,SI1,3
+2481,1.5,Premium,4,J,VVS2,6
+2482,1.06,Ideal,5,D,VVS2,6
+2483,0.56,Very Good,3,E,VVS2,6
+2484,0.95,Good,2,I,SI2,2
+2485,0.31,Premium,4,G,VVS1,7
+2486,1.05,Very Good,3,H,SI1,3
+2487,2.01,Ideal,5,D,SI2,2
+2488,0.31,Very Good,3,E,SI1,3
+2489,0.56,Ideal,5,E,VS1,4
+2490,0.3,Ideal,5,D,VS2,5
+2491,0.7,Ideal,5,H,VVS2,6
+2492,1.5,Very Good,3,I,SI2,2
+2493,0.38,Ideal,5,F,VVS1,7
+2494,0.3,Very Good,3,I,SI1,3
+2495,0.71,Premium,4,D,SI2,2
+2496,1,Ideal,5,G,SI1,3
+2497,1.22,Premium,4,E,SI1,3
+2498,1.51,Ideal,5,G,VVS2,6
+2499,2.01,Ideal,5,G,SI1,3
+2500,0.36,Premium,4,E,VVS2,6
+2501,0.42,Ideal,5,G,VS1,4
+2502,0.91,Premium,4,F,VS2,5
+2503,1.29,Good,2,I,VS2,5
+2504,1.01,Very Good,3,G,SI1,3
+2505,1.63,Ideal,5,F,I1,1
+2506,2,Good,2,G,SI1,3
+2507,2.53,Premium,4,H,SI1,3
+2508,1.03,Fair,1,D,SI1,3
+2509,0.35,Ideal,5,G,IF,8
+2510,1.02,Good,2,H,SI2,2
+2511,1.51,Premium,4,H,I1,1
+2512,1.56,Ideal,5,F,VS1,4
+2513,0.23,Very Good,3,E,VVS1,7
+2514,0.66,Good,2,G,VS1,4
+2515,0.91,Premium,4,H,VS2,5
+2516,0.31,Very Good,3,I,SI1,3
+2517,0.44,Ideal,5,F,VVS2,6
+2518,0.4,Good,2,D,SI1,3
+2519,0.9,Very Good,3,I,SI1,3
+2520,0.59,Very Good,3,G,VS1,4
+2521,0.41,Ideal,5,E,VVS2,6
+2522,1.01,Very Good,3,G,VS1,4
+2523,0.52,Very Good,3,I,SI1,3
+2524,0.37,Premium,4,G,SI1,3
+2525,1.51,Premium,4,F,SI1,3
+2526,2.01,Very Good,3,H,SI1,3
+2527,2.05,Premium,4,I,SI2,2
+2528,1.21,Premium,4,H,SI1,3
+2529,1.01,Very Good,3,H,VS1,4
+2530,0.23,Good,2,E,VVS2,6
+2531,1.5,Fair,1,H,I1,1
+2532,0.73,Ideal,5,G,VS1,4
+2533,0.73,Very Good,3,J,VS2,5
+2534,0.56,Fair,1,F,SI1,3
+2535,0.33,Premium,4,H,VS1,4
+2536,1.71,Ideal,5,G,SI1,3
+2537,2.15,Ideal,5,G,SI2,2
+2538,1.31,Ideal,5,F,SI1,3
+2539,0.9,Good,2,F,SI1,3
+2540,0.38,Ideal,5,G,VS1,4
+2541,0.4,Premium,4,F,VVS1,7
+2542,1.03,Very Good,3,G,VS1,4
+2543,0.39,Very Good,3,J,VVS1,7
+2544,0.42,Ideal,5,E,VS2,5
+2545,0.58,Ideal,5,D,SI2,2
+2546,1,Fair,1,E,SI2,2
+2547,0.31,Very Good,3,G,VS1,4
+2548,1.5,Premium,4,H,SI2,2
+2549,0.7,Good,2,F,VVS2,6
+2550,1.5,Premium,4,I,SI1,3
+2551,1.5,Very Good,3,D,SI1,3
+2552,1.55,Ideal,5,I,VS2,5
+2553,0.33,Premium,4,G,VS1,4
+2554,1.23,Ideal,5,H,VS2,5
+2555,0.57,Very Good,3,G,SI1,3
+2556,1.72,Premium,4,F,I1,1
+2557,1,Premium,4,G,VS1,4
+2558,1.28,Ideal,5,G,I1,1
+2559,0.38,Ideal,5,G,VS2,5
+2560,0.9,Very Good,3,G,SI2,2
+2561,1.51,Very Good,3,G,VVS2,6
+2562,0.52,Premium,4,H,SI1,3
+2563,0.31,Ideal,5,E,VVS1,7
+2564,0.28,Very Good,3,F,VVS2,6
+2565,0.7,Very Good,3,E,SI1,3
+2566,1.51,Very Good,3,E,VS2,5
+2567,1.05,Very Good,3,G,IF,8
+2568,1,Premium,4,E,VVS2,6
+2569,1.51,Very Good,3,J,VVS2,6
+2570,1.21,Very Good,3,H,SI1,3
+2571,0.34,Ideal,5,I,VS1,4
+2572,0.9,Premium,4,E,SI1,3
+2573,1.3,Ideal,5,D,SI1,3
+2574,0.42,Ideal,5,G,VS1,4
+2575,0.74,Ideal,5,E,SI1,3
+2576,1.02,Ideal,5,D,VS1,4
+2577,0.3,Ideal,5,D,VS2,5
+2578,0.4,Very Good,3,D,VVS2,6
+2579,0.3,Premium,4,D,SI1,3
+2580,0.3,Ideal,5,E,VS2,5
+2581,2.01,Fair,1,H,SI2,2
+2582,1.35,Premium,4,F,VS2,5
+2583,1.03,Ideal,5,F,SI2,2
+2584,1.01,Good,2,D,SI1,3
+2585,0.71,Very Good,3,H,VS2,5
+2586,0.38,Ideal,5,F,VVS1,7
+2587,0.5,Good,2,G,SI2,2
+2588,0.54,Premium,4,H,VS1,4
+2589,0.73,Ideal,5,F,VVS1,7
+2590,1.01,Fair,1,D,SI2,2
+2591,0.51,Premium,4,E,VS2,5
+2592,1.01,Good,2,I,VS2,5
+2593,2.03,Premium,4,J,VS1,4
+2594,0.34,Ideal,5,H,VVS2,6
+2595,0.54,Ideal,5,F,VVS2,6
+2596,0.7,Good,2,I,VS1,4
+2597,1.52,Good,2,H,SI1,3
+2598,0.31,Ideal,5,D,SI1,3
+2599,0.4,Very Good,3,E,VVS1,7
+2600,0.5,Premium,4,D,SI1,3
+2601,1.02,Very Good,3,E,SI2,2
+2602,0.5,Very Good,3,H,VS1,4
+2603,1.21,Very Good,3,E,SI1,3
+2604,0.54,Good,2,D,VS1,4
+2605,1.01,Ideal,5,H,SI1,3
+2606,0.32,Ideal,5,H,VS2,5
+2607,0.9,Premium,4,H,VS2,5
+2608,1.5,Ideal,5,F,VVS2,6
+2609,0.33,Premium,4,G,VVS1,7
+2610,0.5,Very Good,3,F,VS2,5
+2611,0.71,Ideal,5,D,SI2,2
+2612,0.72,Premium,4,H,VS2,5
+2613,1.08,Very Good,3,G,SI2,2
+2614,0.55,Ideal,5,E,SI1,3
+2615,0.33,Premium,4,F,VS2,5
+2616,0.3,Very Good,3,G,VVS2,6
+2617,0.41,Ideal,5,E,VVS1,7
+2618,0.35,Premium,4,E,SI1,3
+2619,1.51,Very Good,3,H,VS1,4
+2620,0.82,Good,2,J,SI1,3
+2621,1.18,Premium,4,H,SI1,3
+2622,0.4,Premium,4,G,VS1,4
+2623,0.31,Ideal,5,H,VS2,5
+2624,0.3,Premium,4,H,SI1,3
+2625,2.05,Premium,4,E,SI2,2
+2626,0.7,Very Good,3,F,SI1,3
+2627,0.42,Very Good,3,E,SI1,3
+2628,1.06,Ideal,5,H,SI2,2
+2629,0.29,Very Good,3,G,VVS2,6
+2630,0.73,Ideal,5,E,VS1,4
+2631,1.03,Very Good,3,G,SI1,3
+2632,0.74,Ideal,5,E,SI1,3
+2633,1.18,Premium,4,E,I1,1
+2634,0.9,Premium,4,H,VS1,4
+2635,1.41,Premium,4,G,SI1,3
+2636,1.03,Ideal,5,H,VVS2,6
+2637,1.02,Premium,4,D,VS2,5
+2638,0.7,Ideal,5,F,SI2,2
+2639,0.32,Ideal,5,F,VS2,5
+2640,0.43,Ideal,5,E,VVS1,7
+2641,0.5,Very Good,3,E,SI2,2
+2642,0.28,Very Good,3,D,VVS2,6
+2643,0.36,Ideal,5,H,VS2,5
+2644,1.51,Very Good,3,F,SI1,3
+2645,0.52,Ideal,5,G,VS2,5
+2646,1.05,Ideal,5,F,SI1,3
+2647,0.34,Very Good,3,D,SI1,3
+2648,0.4,Ideal,5,E,VS2,5
+2649,2.14,Ideal,5,H,SI2,2
+2650,2,Premium,4,J,VS1,4
+2651,0.92,Premium,4,F,SI2,2
+2652,1.55,Premium,4,D,SI2,2
+2653,1.04,Ideal,5,G,VS2,5
+2654,1.02,Ideal,5,E,SI1,3
+2655,2.01,Very Good,3,I,SI1,3
+2656,1.51,Fair,1,I,VS2,5
+2657,0.3,Ideal,5,F,VVS2,6
+2658,1.01,Ideal,5,G,VS2,5
+2659,1.05,Premium,4,J,VS1,4
+2660,1.22,Ideal,5,E,VVS2,6
+2661,0.75,Premium,4,F,SI1,3
+2662,0.44,Ideal,5,F,SI1,3
+2663,0.33,Ideal,5,G,VS1,4
+2664,0.72,Ideal,5,E,VS2,5
+2665,0.81,Premium,4,E,SI2,2
+2666,0.3,Ideal,5,D,SI1,3
+2667,0.7,Very Good,3,E,SI1,3
+2668,1.72,Premium,4,H,SI1,3
+2669,1,Premium,4,F,SI1,3
+2670,0.3,Very Good,3,G,SI1,3
+2671,0.28,Ideal,5,H,VVS2,6
+2672,0.72,Very Good,3,J,VS1,4
+2673,0.31,Premium,4,G,SI1,3
+2674,1.54,Premium,4,I,SI2,2
+2675,0.31,Ideal,5,G,SI1,3
+2676,0.37,Premium,4,D,VVS2,6
+2677,0.38,Ideal,5,G,VS2,5
+2678,0.9,Fair,1,E,I1,1
+2679,1,Premium,4,J,SI1,3
+2680,0.33,Very Good,3,I,VVS1,7
+2681,1.03,Very Good,3,J,SI2,2
+2682,0.42,Very Good,3,D,SI2,2
+2683,0.62,Ideal,5,G,VVS2,6
+2684,0.9,Ideal,5,J,SI1,3
+2685,1.18,Very Good,3,I,SI2,2
+2686,0.41,Ideal,5,F,VS2,5
+2687,0.25,Very Good,3,D,VVS2,6
+2688,0.36,Premium,4,D,SI2,2
+2689,0.51,Ideal,5,E,SI2,2
+2690,1.19,Premium,4,G,VS2,5
+2691,0.5,Premium,4,F,SI1,3
+2692,0.41,Very Good,3,E,SI2,2
+2693,1.5,Premium,4,F,VS2,5
+2694,0.51,Very Good,3,I,SI1,3
+2695,0.7,Ideal,5,I,VVS1,7
+2696,0.36,Ideal,5,G,SI1,3
+2697,0.77,Premium,4,E,SI1,3
+2698,0.7,Good,2,F,SI2,2
+2699,0.46,Ideal,5,E,SI2,2
+2700,0.95,Good,2,G,VVS2,6
+2701,0.83,Ideal,5,G,VS1,4
+2702,0.7,Very Good,3,G,VS1,4
+2703,1.14,Very Good,3,G,SI2,2
+2704,1.18,Good,2,D,SI2,2
+2705,0.33,Ideal,5,G,VVS1,7
+2706,0.23,Ideal,5,E,SI2,2
+2707,0.92,Ideal,5,E,SI2,2
+2708,0.33,Ideal,5,E,SI1,3
+2709,1.05,Very Good,3,E,VVS1,7
+2710,0.52,Ideal,5,F,VS2,5
+2711,1.18,Premium,4,G,VS2,5
+2712,1.07,Premium,4,H,VS2,5
+2713,1.02,Very Good,3,G,VS2,5
+2714,1.52,Premium,4,G,VS1,4
+2715,0.31,Ideal,5,F,VS1,4
+2716,1.2,Premium,4,J,SI1,3
+2717,0.32,Premium,4,F,SI1,3
+2718,0.7,Premium,4,H,VS2,5
+2719,0.35,Ideal,5,E,VS2,5
+2720,0.51,Ideal,5,G,VS1,4
+2721,1.05,Ideal,5,G,SI1,3
+2722,0.35,Ideal,5,E,SI1,3
+2723,0.31,Premium,4,J,VS2,5
+2724,0.3,Ideal,5,J,IF,8
+2725,0.61,Ideal,5,D,VVS2,6
+2726,0.6,Premium,4,D,SI1,3
+2727,0.35,Very Good,3,G,VS2,5
+2728,0.51,Ideal,5,G,VS1,4
+2729,0.71,Ideal,5,F,VS1,4
+2730,1.11,Premium,4,H,SI1,3
+2731,0.33,Ideal,5,D,VVS2,6
+2732,0.7,Ideal,5,E,VS2,5
+2733,1.2,Ideal,5,G,VVS2,6
+2734,0.31,Ideal,5,G,SI1,3
+2735,0.36,Ideal,5,G,SI1,3
+2736,0.91,Very Good,3,F,SI1,3
+2737,1,Very Good,3,E,VS2,5
+2738,0.9,Very Good,3,E,VS1,4
+2739,0.52,Premium,4,E,VVS1,7
+2740,1.06,Ideal,5,G,VVS2,6
+2741,0.31,Good,2,E,VS2,5
+2742,0.7,Ideal,5,H,SI1,3
+2743,1.23,Ideal,5,F,SI2,2
+2744,0.52,Ideal,5,H,VS2,5
+2745,0.31,Premium,4,F,VS2,5
+2746,1,Very Good,3,F,IF,8
+2747,0.3,Very Good,3,I,VS1,4
+2748,1.27,Ideal,5,H,SI1,3
+2749,0.26,Ideal,5,H,VS1,4
+2750,0.71,Premium,4,F,SI1,3
+2751,0.5,Good,2,F,SI1,3
+2752,0.34,Premium,4,H,VS1,4
+2753,1.02,Premium,4,F,VS2,5
+2754,1.51,Very Good,3,G,VS1,4
+2755,1.08,Very Good,3,H,VVS1,7
+2756,1.16,Fair,1,H,SI2,2
+2757,0.91,Very Good,3,H,VS2,5
+2758,1.33,Premium,4,I,SI2,2
+2759,0.92,Very Good,3,D,SI1,3
+2760,0.46,Ideal,5,G,IF,8
+2761,0.33,Premium,4,G,VS1,4
+2762,1.01,Premium,4,E,SI2,2
+2763,1.04,Premium,4,D,SI2,2
+2764,0.73,Ideal,5,H,VVS2,6
+2765,0.42,Premium,4,G,VS2,5
+2766,0.46,Fair,1,I,VS1,4
+2767,0.78,Fair,1,G,SI2,2
+2768,1,Premium,4,F,VS2,5
+2769,0.71,Ideal,5,G,IF,8
+2770,0.33,Premium,4,H,VS2,5
+2771,0.71,Premium,4,F,SI1,3
+2772,0.91,Premium,4,F,SI2,2
+2773,2.23,Premium,4,J,VS2,5
+2774,0.7,Ideal,5,D,VS2,5
+2775,1.13,Premium,4,J,VS1,4
+2776,1.75,Ideal,5,J,VS2,5
+2777,1.21,Premium,4,H,SI1,3
+2778,0.7,Very Good,3,F,VS2,5
+2779,1.01,Good,2,F,SI1,3
+2780,0.36,Ideal,5,H,VS2,5
+2781,0.72,Very Good,3,E,SI2,2
+2782,1.62,Very Good,3,I,VS2,5
+2783,1.19,Ideal,5,F,VVS2,6
+2784,1.01,Very Good,3,G,SI1,3
+2785,0.7,Premium,4,D,VS1,4
+2786,1.03,Ideal,5,F,VS2,5
+2787,0.54,Fair,1,F,SI1,3
+2788,0.9,Very Good,3,F,SI2,2
+2789,0.4,Ideal,5,H,IF,8
+2790,0.51,Premium,4,G,VS2,5
+2791,0.53,Premium,4,E,VS2,5
+2792,0.5,Premium,4,E,VS2,5
+2793,0.36,Ideal,5,E,SI1,3
+2794,0.64,Good,2,D,SI1,3
+2795,0.9,Ideal,5,G,VVS1,7
+2796,0.35,Ideal,5,D,SI1,3
+2797,0.3,Good,2,G,VVS2,6
+2798,1,Premium,4,D,SI1,3
+2799,0.59,Ideal,5,G,SI1,3
+2800,0.71,Good,2,E,SI2,2
+2801,0.7,Very Good,3,D,VS1,4
+2802,0.31,Premium,4,I,SI1,3
+2803,1.57,Ideal,5,F,SI1,3
+2804,0.9,Ideal,5,G,SI1,3
+2805,0.59,Ideal,5,D,SI1,3
+2806,0.26,Very Good,3,G,VS1,4
+2807,0.41,Ideal,5,E,VVS2,6
+2808,0.4,Very Good,3,G,VS1,4
+2809,0.53,Very Good,3,E,VS2,5
+2810,0.7,Ideal,5,I,SI1,3
+2811,0.32,Premium,4,D,SI1,3
+2812,0.7,Good,2,F,VS1,4
+2813,0.7,Very Good,3,E,VS2,5
+2814,0.9,Good,2,G,SI1,3
+2815,0.33,Premium,4,G,VS2,5
+2816,1.15,Good,2,J,SI2,2
+2817,1.01,Very Good,3,E,VS2,5
+2818,0.32,Ideal,5,I,IF,8
+2819,2.33,Very Good,3,H,SI2,2
+2820,0.79,Very Good,3,I,SI1,3
+2821,1.21,Ideal,5,H,SI1,3
+2822,0.75,Very Good,3,G,SI1,3
+2823,0.4,Ideal,5,I,SI1,3
+2824,1.23,Good,2,I,VS1,4
+2825,1.08,Premium,4,G,SI1,3
+2826,0.28,Very Good,3,E,VS1,4
+2827,0.54,Very Good,3,F,VS2,5
+2828,1.09,Premium,4,G,VS2,5
+2829,0.28,Very Good,3,E,VVS2,6
+2830,1.2,Premium,4,F,SI2,2
+2831,1,Ideal,5,E,SI1,3
+2832,0.36,Ideal,5,G,SI1,3
+2833,0.6,Very Good,3,F,SI1,3
+2834,1.71,Premium,4,H,SI1,3
+2835,0.33,Ideal,5,E,VS2,5
+2836,0.3,Ideal,5,E,VVS1,7
+2837,0.71,Ideal,5,D,SI2,2
+2838,0.31,Ideal,5,G,IF,8
+2839,0.32,Ideal,5,E,VVS2,6
+2840,0.66,Ideal,5,H,SI1,3
+2841,1.5,Good,2,D,SI2,2
+2842,0.38,Premium,4,H,VS2,5
+2843,1.22,Premium,4,F,VS2,5
+2844,1.53,Very Good,3,H,VS1,4
+2845,0.3,Ideal,5,H,SI1,3
+2846,1.79,Premium,4,G,VS2,5
+2847,1.02,Ideal,5,I,I1,1
+2848,0.3,Ideal,5,F,VVS2,6
+2849,0.75,Ideal,5,G,SI1,3
+2850,0.54,Ideal,5,G,SI1,3
+2851,0.7,Fair,1,F,SI2,2
+2852,1.25,Ideal,5,H,SI1,3
+2853,0.82,Ideal,5,I,SI1,3
+2854,1.01,Very Good,3,F,VS2,5
+2855,1.15,Very Good,3,H,SI2,2
+2856,1.67,Ideal,5,F,VS2,5
+2857,1.01,Very Good,3,E,VS2,5
+2858,0.39,Very Good,3,E,VS2,5
+2859,1.22,Ideal,5,I,VS1,4
+2860,1.01,Good,2,E,SI1,3
+2861,2,Very Good,3,I,VS2,5
+2862,0.54,Ideal,5,D,VS2,5
+2863,0.9,Premium,4,J,SI1,3
+2864,0.32,Very Good,3,E,SI1,3
+2865,0.54,Very Good,3,F,SI1,3
+2866,0.5,Premium,4,D,SI1,3
+2867,1.51,Premium,4,J,VVS2,6
+2868,1.01,Very Good,3,H,VS2,5
+2869,0.77,Good,2,D,SI2,2
+2870,0.7,Fair,1,E,SI2,2
+2871,0.31,Ideal,5,E,VS2,5
+2872,2.18,Premium,4,J,SI2,2
+2873,0.3,Very Good,3,J,VS1,4
+2874,0.53,Ideal,5,D,SI1,3
+2875,0.9,Very Good,3,F,SI1,3
+2876,1.13,Ideal,5,H,SI1,3
+2877,0.4,Premium,4,D,SI2,2
+2878,0.5,Very Good,3,D,VS2,5
+2879,0.37,Ideal,5,F,VVS1,7
+2880,1.12,Very Good,3,I,VS2,5
+2881,1.28,Ideal,5,G,SI1,3
+2882,0.66,Very Good,3,E,VVS1,7
+2883,0.71,Good,2,H,SI1,3
+2884,0.4,Premium,4,H,VS1,4
+2885,1.28,Ideal,5,H,SI1,3
+2886,0.42,Premium,4,E,SI2,2
+2887,1,Very Good,3,H,SI2,2
+2888,0.41,Premium,4,G,VS1,4
+2889,0.52,Very Good,3,I,VS1,4
+2890,0.46,Ideal,5,G,VVS1,7
+2891,1.5,Very Good,3,J,VS2,5
+2892,1.13,Very Good,3,I,VS2,5
+2893,0.3,Very Good,3,I,SI1,3
+2894,2,Very Good,3,E,SI2,2
+2895,1.68,Ideal,5,I,VS2,5
+2896,0.3,Ideal,5,D,SI1,3
+2897,0.81,Premium,4,G,VS1,4
+2898,0.35,Very Good,3,E,SI1,3
+2899,1.54,Ideal,5,D,SI2,2
+2900,0.32,Ideal,5,H,VVS1,7
+2901,0.9,Ideal,5,E,SI1,3
+2902,0.79,Ideal,5,I,VS1,4
+2903,0.5,Ideal,5,D,SI2,2
+2904,1.09,Ideal,5,E,SI1,3
+2905,0.33,Very Good,3,E,VS2,5
+2906,0.38,Good,2,F,VS2,5
+2907,0.31,Ideal,5,E,VS2,5
+2908,1.21,Very Good,3,G,SI2,2
+2909,1.19,Ideal,5,E,SI2,2
+2910,0.55,Ideal,5,G,VVS2,6
+2911,0.7,Ideal,5,F,SI1,3
+2912,0.39,Very Good,3,G,VVS1,7
+2913,1.66,Ideal,5,J,SI2,2
+2914,1.1,Ideal,5,I,SI1,3
+2915,1.21,Very Good,3,G,SI2,2
+2916,0.3,Very Good,3,E,VS1,4
+2917,0.86,Good,2,G,SI2,2
+2918,0.3,Ideal,5,G,VS1,4
+2919,1.22,Ideal,5,G,VS1,4
+2920,0.3,Premium,4,E,SI1,3
+2921,1.2,Ideal,5,G,VS1,4
+2922,0.31,Ideal,5,H,VVS1,7
+2923,2.01,Very Good,3,I,VS2,5
+2924,0.37,Ideal,5,J,SI1,3
+2925,0.31,Premium,4,E,VS1,4
+2926,0.3,Ideal,5,F,SI1,3
+2927,0.31,Ideal,5,F,VVS2,6
+2928,0.27,Very Good,3,F,VVS1,7
+2929,0.32,Ideal,5,D,VVS2,6
+2930,0.33,Ideal,5,H,IF,8
+2931,1.86,Very Good,3,H,SI2,2
+2932,0.72,Ideal,5,H,VS1,4
+2933,1.05,Ideal,5,H,SI1,3
+2934,1.02,Premium,4,G,VS2,5
+2935,1.04,Very Good,3,E,SI1,3
+2936,0.95,Very Good,3,J,VVS2,6
+2937,0.3,Ideal,5,H,VVS2,6
+2938,0.27,Very Good,3,G,VS1,4
+2939,0.32,Premium,4,F,VS2,5
+2940,1.28,Ideal,5,G,SI1,3
+2941,1.31,Premium,4,F,SI1,3
+2942,0.3,Premium,4,E,SI1,3
+2943,1.51,Ideal,5,I,VS1,4
+2944,0.36,Ideal,5,E,VS2,5
+2945,0.73,Premium,4,F,SI1,3
+2946,0.33,Ideal,5,G,IF,8
+2947,1,Premium,4,G,SI2,2
+2948,0.31,Ideal,5,G,IF,8
+2949,0.56,Ideal,5,E,VS2,5
+2950,0.32,Premium,4,G,VVS2,6
+2951,1.53,Premium,4,G,VVS1,7
+2952,0.52,Very Good,3,H,SI1,3
+2953,0.42,Ideal,5,G,VVS1,7
+2954,0.3,Ideal,5,D,VS2,5
+2955,1,Very Good,3,G,VS2,5
+2956,0.44,Good,2,E,VS2,5
+2957,1.01,Good,2,E,VS2,5
+2958,0.31,Ideal,5,J,VS1,4
+2959,2.28,Premium,4,H,SI2,2
+2960,0.5,Premium,4,D,VS2,5
+2961,0.5,Ideal,5,E,VVS2,6
+2962,0.36,Very Good,3,E,SI1,3
+2963,0.7,Ideal,5,I,SI1,3
+2964,0.4,Premium,4,D,SI2,2
+2965,0.52,Good,2,G,VS2,5
+2966,1.02,Ideal,5,G,SI2,2
+2967,0.76,Very Good,3,G,VVS2,6
+2968,2.03,Ideal,5,I,SI2,2
+2969,1.51,Premium,4,F,VS2,5
+2970,0.61,Very Good,3,E,SI1,3
+2971,1,Premium,4,F,VS2,5
+2972,1.07,Premium,4,E,SI2,2
+2973,1.21,Very Good,3,F,VS1,4
+2974,0.46,Fair,1,G,VS1,4
+2975,0.79,Good,2,I,VS2,5
+2976,0.32,Ideal,5,F,VVS2,6
+2977,0.4,Ideal,5,F,VS2,5
+2978,0.51,Fair,1,E,VS2,5
+2979,1.05,Premium,4,J,VS1,4
+2980,0.43,Very Good,3,H,SI1,3
+2981,0.3,Ideal,5,G,VVS2,6
+2982,1.51,Premium,4,E,SI1,3
+2983,1.54,Ideal,5,J,VS2,5
+2984,1.16,Ideal,5,I,VS2,5
+2985,1.01,Premium,4,D,SI1,3
+2986,1.01,Very Good,3,I,VS2,5
+2987,0.83,Premium,4,H,SI1,3
+2988,0.93,Very Good,3,F,VS2,5
+2989,1.2,Very Good,3,G,SI2,2
+2990,0.8,Ideal,5,E,VVS2,6
+2991,1.11,Ideal,5,D,VVS2,6
+2992,1.31,Premium,4,H,SI2,2
+2993,1.11,Good,2,F,SI1,3
+2994,1.1,Good,2,D,SI2,2
+2995,1.22,Premium,4,I,SI2,2
+2996,0.72,Ideal,5,F,SI2,2
+2997,1.09,Premium,4,I,VS2,5
+2998,1.05,Very Good,3,G,SI1,3
+2999,0.7,Fair,1,G,SI1,3
+3000,1.01,Very Good,3,F,SI1,3
