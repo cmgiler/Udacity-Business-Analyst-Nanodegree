@@ -1,4 +1,4 @@
-# Predicting Diamond Prices
+# Predicting Catalog Demand
 
 [Open Project Report](https://github.com/cmgiler/Udacity-Business-Analyst-Nanodegree/blob/master/project1-2/Project%201-2%20Report%20Giler.pdf)
 
